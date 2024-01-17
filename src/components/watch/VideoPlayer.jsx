@@ -27,7 +27,7 @@ export default function VideoPlayer({ videoId, className }) {
         <iframe
           id='player'
           type='text/html'
-          src={`http://www.youtube.com/embed/${videoId}?autoplay=1`}
+          src={`https://www.youtube.com/embed/${videoId}?autoplay=1`}
           frameborder='0'
           allowFullScreen
         ></iframe>
