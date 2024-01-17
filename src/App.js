@@ -1,8 +1,8 @@
 import React from 'react';
 import { RouterProvider, createBrowserRouter } from 'react-router-dom';
 import RootPage from './pages/RootPage';
-import VideoListPage from './pages/VideoListPage';
-import WatchPage from './pages/WatchPage';
+import HomePage from './pages/home/HomePage';
+import WatchPage from './pages/watch/WatchPage';
 
 const router = createBrowserRouter([
   {
@@ -11,7 +11,7 @@ const router = createBrowserRouter([
     children: [
       {
         index: true,
-        element: <VideoListPage />,
+        element: <HomePage />,
       },
       {
         path: '/watch',

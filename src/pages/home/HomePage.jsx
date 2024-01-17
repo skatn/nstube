@@ -1,9 +1,9 @@
 import React, { useEffect, useState } from 'react';
-import Video from '../components/video/Video';
-import styles from './VideoList.module.css';
-import getVideoList from '../services/video/getVideoList';
-import getChannelList from '../services/channel/getChannelList';
-import { combineVideoListChannelList } from '../utils/combineVideoListChannelList';
+import Video from '../../components/video/Video';
+import styles from './HomePage.module.css';
+import getVideoList from '../../services/video/getVideoList';
+import getChannelList from '../../services/channel/getChannelList';
+import { combineVideoListChannelList } from '../../utils/combineVideoListChannelList';
 
 export default function VideoListPage() {
   const [videoList, setVideoList] = useState(initValue);

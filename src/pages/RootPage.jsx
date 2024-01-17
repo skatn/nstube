@@ -4,9 +4,9 @@ import Search from '../components/search/Search';
 
 export default function RootPage() {
   return (
-    <div>
+    <>
       <Search />
       <Outlet />
-    </div>
+    </>
   );
 }
