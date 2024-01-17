@@ -1,0 +1,1312 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "Y0L6s8jdisg3nUR23mlWlbWfzPg",
+  "pageInfo": {
+    "totalResults": 29,
+    "resultsPerPage": 30
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "L9KsgO-sDGOxsF1piTYNLXusfww",
+      "id": "UCy-swBYpRZx7KW11FStjTgw",
+      "snippet": {
+        "title": "레알예능 스브스",
+        "description": "레알예능 스브스는 SBS의 관찰 예능 등 버라이어티 프로그램들의 명장면들을 모은 채널 입니다. \n\n[미운우리새끼], [동상이몽 2], [돌싱포맨] 등의 엑기스를 모아 놓은 \"예능맛집\" 컨텐츠를 보실 수 있습니다!\n구독자분들의 많은 사랑 부탁드립니다❣🙇‍♀️🙇‍♂️\n\n▶ Partnership & Sales inquiry: contentspartner@sbs.co.kr\nⓒSBS. Corp ALL RIGHTS RESERVED",
+        "customUrl": "@realityenter_sbs",
+        "publishedAt": "2011-03-22T03:57:14Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIf8zZREASDwgXAb8JrxvUKwughZsxaxz5bJpnPzTefx6w=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIf8zZREASDwgXAb8JrxvUKwughZsxaxz5bJpnPzTefx6w=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIf8zZREASDwgXAb8JrxvUKwughZsxaxz5bJpnPzTefx6w=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "레알예능 스브스",
+          "description": "레알예능 스브스는 SBS의 관찰 예능 등 버라이어티 프로그램들의 명장면들을 모은 채널 입니다. \n\n[미운우리새끼], [동상이몽 2], [돌싱포맨] 등의 엑기스를 모아 놓은 \"예능맛집\" 컨텐츠를 보실 수 있습니다!\n구독자분들의 많은 사랑 부탁드립니다❣🙇‍♀️🙇‍♂️\n\n▶ Partnership & Sales inquiry: contentspartner@sbs.co.kr\nⓒSBS. Corp ALL RIGHTS RESERVED"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUy-swBYpRZx7KW11FStjTgw"
+        }
+      },
+      "statistics": {
+        "viewCount": "1076011715",
+        "subscriberCount": "720000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "14840"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "D5S_gT2L9yDEyQjrDVNhF8_k6vM",
+      "id": "UCwNVDlUgdBlmVWRPy4Nk0Dw",
+      "snippet": {
+        "title": "샾잉 #ing",
+        "description": "요즘 뜨는 핫클립, 지금 생성 중! #ING\n샾잉에서 핫클립 모아보기\n\nwe’re :DIGGLE family\n",
+        "customUrl": "@sharp_ing",
+        "publishedAt": "2020-02-28T08:43:42.566691Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/3pPkhNLp7U-IVzlQeCSceFCGvT_eUkIQZDNyMgVEdzXnUA3cHLz2PyaDGAapeE8kRdyorV4KTX8=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/3pPkhNLp7U-IVzlQeCSceFCGvT_eUkIQZDNyMgVEdzXnUA3cHLz2PyaDGAapeE8kRdyorV4KTX8=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/3pPkhNLp7U-IVzlQeCSceFCGvT_eUkIQZDNyMgVEdzXnUA3cHLz2PyaDGAapeE8kRdyorV4KTX8=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "샾잉 #ing",
+          "description": "요즘 뜨는 핫클립, 지금 생성 중! #ING\n샾잉에서 핫클립 모아보기\n\nwe’re :DIGGLE family\n"
+        },
+        "country": "KR"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUwNVDlUgdBlmVWRPy4Nk0Dw"
+        }
+      },
+      "statistics": {
+        "viewCount": "3317774512",
+        "subscriberCount": "1160000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "29318"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "ch6UbOTvf5NLOz9rLxH4L_H1Kbw",
+      "id": "UCaO6TYtlC8U5ttz62hTrZgg",
+      "snippet": {
+        "title": "JYP Entertainment",
+        "description": "JYPnation Official YouTube\n\nLEADER IN ENTERTAINMENT\n\nThere are values and goals that JYP Entertainment (JYP) has pursued. JYP prides itself with those values and strives to be an exemplary leader in the entertainment industry. \n\nWith the lead of Park Jin Young as one of Asia’s most prominent producers in the entertainment industry, JYP has discovered and produced some of the most popular and successful K-Pop artists, such as god, Rain, Wonder Girls, 2PM, 2AM, miss A, GOT7, DAY6, TWICE, Stray Kids, ITZY, Xdinary Heroes and NMIXX.\n\nAlso, we have introduced and led K-Pop’s dominance by expanding the activities of our artists to the global music industry through the network of our overseas subsidiaries, JYP Japan and JYP China. \n\nJYP not only focuses on ordinary business, like planning and creating music, finding and managing artists, conducting online, mobile and overseas business, but also strives to scout creative talents and develop them to be suitable for the entertainment industry.\n",
+        "customUrl": "@jypentertainment",
+        "publishedAt": "2008-01-25T07:45:44Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/kcV7NQkBm-UvvzVTJvrg1Yf1eHSqi-DLXuZPt_ECa3cHEPefujS951Dxj6KUEQ5i9Z7_fyMUjw=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/kcV7NQkBm-UvvzVTJvrg1Yf1eHSqi-DLXuZPt_ECa3cHEPefujS951Dxj6KUEQ5i9Z7_fyMUjw=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/kcV7NQkBm-UvvzVTJvrg1Yf1eHSqi-DLXuZPt_ECa3cHEPefujS951Dxj6KUEQ5i9Z7_fyMUjw=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "JYP Entertainment",
+          "description": "JYPnation Official YouTube\n\nLEADER IN ENTERTAINMENT\n\nThere are values and goals that JYP Entertainment (JYP) has pursued. JYP prides itself with those values and strives to be an exemplary leader in the entertainment industry. \n\nWith the lead of Park Jin Young as one of Asia’s most prominent producers in the entertainment industry, JYP has discovered and produced some of the most popular and successful K-Pop artists, such as god, Rain, Wonder Girls, 2PM, 2AM, miss A, GOT7, DAY6, TWICE, Stray Kids, ITZY, Xdinary Heroes and NMIXX.\n\nAlso, we have introduced and led K-Pop’s dominance by expanding the activities of our artists to the global music industry through the network of our overseas subsidiaries, JYP Japan and JYP China. \n\nJYP not only focuses on ordinary business, like planning and creating music, finding and managing artists, conducting online, mobile and overseas business, but also strives to scout creative talents and develop them to be suitable for the entertainment industry.\n"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUaO6TYtlC8U5ttz62hTrZgg"
+        }
+      },
+      "statistics": {
+        "viewCount": "21539357806",
+        "subscriberCount": "28600000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "2007"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "CmHhT6P0LWrgyULroUij4G0X9QE",
+      "id": "UCfkXDY7vwkcJ8ddFGz8KusA",
+      "snippet": {
+        "title": "SEVENTEEN",
+        "description": "#SEVENTEEN Official Youtube\n#세븐틴 공식 유튜브\n",
+        "customUrl": "@pledis17",
+        "publishedAt": "2012-11-16T08:20:35Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/KVWL6t-4tQVxE8BN3u8pgwb4uv7BhUaqm9EiBO4X0yCP2Cm0IFr22HYT3_t5cIDOnd9UsRdH=s88-c-k-c0x00ffffff-no-nd-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/KVWL6t-4tQVxE8BN3u8pgwb4uv7BhUaqm9EiBO4X0yCP2Cm0IFr22HYT3_t5cIDOnd9UsRdH=s240-c-k-c0x00ffffff-no-nd-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/KVWL6t-4tQVxE8BN3u8pgwb4uv7BhUaqm9EiBO4X0yCP2Cm0IFr22HYT3_t5cIDOnd9UsRdH=s800-c-k-c0x00ffffff-no-nd-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "SEVENTEEN",
+          "description": "#SEVENTEEN Official Youtube\n#세븐틴 공식 유튜브\n"
+        },
+        "country": "KR"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUfkXDY7vwkcJ8ddFGz8KusA"
+        }
+      },
+      "statistics": {
+        "viewCount": "5018971228",
+        "subscriberCount": "10600000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "1845"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "Y9B0R9OnhnP8mi13XSne1BaILi4",
+      "id": "UCV5iV1Zhe6bRrVwBzXgUnPg",
+      "snippet": {
+        "title": "동치미",
+        "description": "🦄수다가 나를 바꾸고 세상을 바꾼다!🦄\n\n살면서 어디서든 누구나 마주치는 속 터지는 일들!\n\n이제는 동치미 유튜브와 함께💗\n\n좋아요👍 댓글💌 구독❤️ 알림설정🌟\n\n\n✅ 광고. 비즈니스 문의 mbndc.teams@gmail.com\n",
+        "customUrl": "@dongchimi_mbn",
+        "publishedAt": "2022-06-20T01:07:24.814147Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/hfXXG8QkqZtrHzOnqW5xY5MmW5S0CEgzrH352DqIc0Oid4GVVibgFhWZK15ETYE1qoMh4_Gp=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/hfXXG8QkqZtrHzOnqW5xY5MmW5S0CEgzrH352DqIc0Oid4GVVibgFhWZK15ETYE1qoMh4_Gp=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/hfXXG8QkqZtrHzOnqW5xY5MmW5S0CEgzrH352DqIc0Oid4GVVibgFhWZK15ETYE1qoMh4_Gp=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "동치미",
+          "description": "🦄수다가 나를 바꾸고 세상을 바꾼다!🦄\n\n살면서 어디서든 누구나 마주치는 속 터지는 일들!\n\n이제는 동치미 유튜브와 함께💗\n\n좋아요👍 댓글💌 구독❤️ 알림설정🌟\n\n\n✅ 광고. 비즈니스 문의 mbndc.teams@gmail.com\n"
+        },
+        "country": "KR"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUV5iV1Zhe6bRrVwBzXgUnPg"
+        }
+      },
+      "statistics": {
+        "viewCount": "206107297",
+        "subscriberCount": "328000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "1498"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "3UcqbKQvIDJnxAHBcsI7bYC6Hcs",
+      "id": "UCnx4Fi4cmkLGDiFfZ311wWw",
+      "snippet": {
+        "title": "스브스 예능맛집",
+        "description": "💙스브스 예능맛집💙은 SBS 예능 프로그램의 모든 것이 담긴 SBS 공식 예능 디지털 스튜디오 채널입니다.\n\n화제성이 높았던 장면을 1분 안에 보여드리는 [예능맛집 쇼츠]부터 스브스 예능의 하이라이트를 모아 놓은 [예능맛집]까지 \n재미있고 다양한 콘텐츠가 마련되어 있습니다.\n\n스브스 예능맛집 구독자분들의 많은 사랑과 관심 부탁드립니다❣\n\n▶ Partnership & Sales inquiry: contentspartner@sbs.co.kr\nⓒSBS. Corp ALL RIGHTS RESERVED\n",
+        "customUrl": "@sbsenterplay",
+        "publishedAt": "2006-05-30T14:51:50Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIf8zZRSfvx7T3DxGWluRVkQwvbFoeZ_3-RFW1qtD4bPmQ=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIf8zZRSfvx7T3DxGWluRVkQwvbFoeZ_3-RFW1qtD4bPmQ=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIf8zZRSfvx7T3DxGWluRVkQwvbFoeZ_3-RFW1qtD4bPmQ=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "스브스 예능맛집",
+          "description": "💙스브스 예능맛집💙은 SBS 예능 프로그램의 모든 것이 담긴 SBS 공식 예능 디지털 스튜디오 채널입니다.\n\n화제성이 높았던 장면을 1분 안에 보여드리는 [예능맛집 쇼츠]부터 스브스 예능의 하이라이트를 모아 놓은 [예능맛집]까지 \n재미있고 다양한 콘텐츠가 마련되어 있습니다.\n\n스브스 예능맛집 구독자분들의 많은 사랑과 관심 부탁드립니다❣\n\n▶ Partnership & Sales inquiry: contentspartner@sbs.co.kr\nⓒSBS. Corp ALL RIGHTS RESERVED\n"
+        },
+        "country": "KR"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUnx4Fi4cmkLGDiFfZ311wWw"
+        }
+      },
+      "statistics": {
+        "viewCount": "2578020696",
+        "subscriberCount": "2590000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "5194"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "98Hp5NGsJpP7FLy5s7C0_CUKlgg",
+      "id": "UCOVgnOcjlut-LusGwqXD2HA",
+      "snippet": {
+        "title": "흥삶이네 Heungsam's Life",
+        "description": "안녕하세요 먹방하는 흥삼이네의 Vlog채널입니다. 일상, 여행, 맛집탐방 등 Vlog영상을 올리는 채널입니다.\n\n문의 이메일주소 : gmdtka78@sandbox.co.kr\n",
+        "customUrl": "@heungsamslife",
+        "publishedAt": "2023-05-04T22:13:29.656605Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/wev3ChE0agFeeUZTXNsaz8e_iI6X6o8IQ75Xb1vZ171PFibUBCoJc8MDgxlKCPGw5b0hSTX7FCg=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/wev3ChE0agFeeUZTXNsaz8e_iI6X6o8IQ75Xb1vZ171PFibUBCoJc8MDgxlKCPGw5b0hSTX7FCg=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/wev3ChE0agFeeUZTXNsaz8e_iI6X6o8IQ75Xb1vZ171PFibUBCoJc8MDgxlKCPGw5b0hSTX7FCg=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "흥삶이네 Heungsam's Life",
+          "description": "안녕하세요 먹방하는 흥삼이네의 Vlog채널입니다. 일상, 여행, 맛집탐방 등 Vlog영상을 올리는 채널입니다.\n\n문의 이메일주소 : gmdtka78@sandbox.co.kr\n"
+        },
+        "country": "KR"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUOVgnOcjlut-LusGwqXD2HA"
+        }
+      },
+      "statistics": {
+        "viewCount": "12956116",
+        "subscriberCount": "86900",
+        "hiddenSubscriberCount": false,
+        "videoCount": "47"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "_rxehU-x7G9mCrVMWVJ1QOS24x8",
+      "id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+      "snippet": {
+        "title": "MrBeast",
+        "description": "SUBSCRIBE FOR A COOKIE!\nAccomplishments:\n- Raised $20,000,000 To Plant 20,000,000 Trees\n- Removed 30,000,000 pounds of trash from the ocean\n- Built wells in Africa\n- helped 1,000 blind people see\n- helped 1,000 deaf people hear\n- Given millions to charity\n- Started my own snack company Feastables\n- Donated over 100 cars lol\n- Gave away a private island (twice)\n- Gave away 1 million dollars in one video\n- Counted to 100k\n- Read the Dictionary\n- Read Bee Movie Script\n- Read Longest English Word\n- Watched Paint Dry\n- Ubering Across America\n- Watched It's Every Day Bro For 10 Hours\n- Ran a marathon in the world's largest shoes\n- Adopted every dog in a shelter\n- Bought $1,000,000 in lottery tickets\n- Sold houses for $1\n- I got buried alive\n- Recreated Squid Game in real life\n- Gave away a chocolate factory\n- Gave away private jet\n- Survived 50 hours in Antarctica\nYou get the point haha\n\n\n*Do not email me asking for money, I give away money because it makes me happy :)",
+        "customUrl": "@mrbeast",
+        "publishedAt": "2012-02-20T00:43:50Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIf8zZTM49hEx9zyui_0zDZKi75EgqJPJfuDmWu1cePdQQ=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIf8zZTM49hEx9zyui_0zDZKi75EgqJPJfuDmWu1cePdQQ=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIf8zZTM49hEx9zyui_0zDZKi75EgqJPJfuDmWu1cePdQQ=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "MrBeast",
+          "description": "SUBSCRIBE FOR A COOKIE!\nAccomplishments:\n- Raised $20,000,000 To Plant 20,000,000 Trees\n- Removed 30,000,000 pounds of trash from the ocean\n- Built wells in Africa\n- helped 1,000 blind people see\n- helped 1,000 deaf people hear\n- Given millions to charity\n- Started my own snack company Feastables\n- Donated over 100 cars lol\n- Gave away a private island (twice)\n- Gave away 1 million dollars in one video\n- Counted to 100k\n- Read the Dictionary\n- Read Bee Movie Script\n- Read Longest English Word\n- Watched Paint Dry\n- Ubering Across America\n- Watched It's Every Day Bro For 10 Hours\n- Ran a marathon in the world's largest shoes\n- Adopted every dog in a shelter\n- Bought $1,000,000 in lottery tickets\n- Sold houses for $1\n- I got buried alive\n- Recreated Squid Game in real life\n- Gave away a chocolate factory\n- Gave away private jet\n- Survived 50 hours in Antarctica\nYou get the point haha\n\n\n*Do not email me asking for money, I give away money because it makes me happy :)"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUX6OQ3DkcsbYNE6H8uQQuVA"
+        }
+      },
+      "statistics": {
+        "viewCount": "41418651954",
+        "subscriberCount": "232000000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "774"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "lzGovREvGJBTVPAvcPE3fJyulHY",
+      "id": "UC9w-h_ciMmX64TcLRcb1xPg",
+      "snippet": {
+        "title": "tvN drama",
+        "description": "NO.1 K콘텐츠 채널, 즐거움엔 tvN",
+        "customUrl": "@tvndrama",
+        "publishedAt": "2011-11-08T08:08:51Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/wrrYvOHmgMmqoereWlddo7EeZDyL7ySFdEJ26bBxAWUblHkYX1hxNWSC7I0L1nsQA-jRPcIfaw=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/wrrYvOHmgMmqoereWlddo7EeZDyL7ySFdEJ26bBxAWUblHkYX1hxNWSC7I0L1nsQA-jRPcIfaw=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/wrrYvOHmgMmqoereWlddo7EeZDyL7ySFdEJ26bBxAWUblHkYX1hxNWSC7I0L1nsQA-jRPcIfaw=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "tvN drama",
+          "description": "NO.1 K콘텐츠 채널, 즐거움엔 tvN"
+        },
+        "country": "KR"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU9w-h_ciMmX64TcLRcb1xPg"
+        }
+      },
+      "statistics": {
+        "viewCount": "8201336581",
+        "subscriberCount": "6830000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "57159"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "h3ZSedy3aAO5b71Vik87GgmApT4",
+      "id": "UCWYzc_p0GgfCepIWDHGFmEg",
+      "snippet": {
+        "title": "디글 :Diggle",
+        "description": "방송국놈들이 덕질하는 채널\n\nwe’re :DIGGLE family\n",
+        "customUrl": "@diggle",
+        "publishedAt": "2020-02-26T07:51:36.376396Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/eeO7_kj214ELzublhbUvImCcYJETn9xFquTTKI40G832A0deDvKz5h26UuRxbn41e7E9DUU23Q=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/eeO7_kj214ELzublhbUvImCcYJETn9xFquTTKI40G832A0deDvKz5h26UuRxbn41e7E9DUU23Q=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/eeO7_kj214ELzublhbUvImCcYJETn9xFquTTKI40G832A0deDvKz5h26UuRxbn41e7E9DUU23Q=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "디글 :Diggle",
+          "description": "방송국놈들이 덕질하는 채널\n\nwe’re :DIGGLE family\n"
+        },
+        "country": "KR"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUWYzc_p0GgfCepIWDHGFmEg"
+        }
+      },
+      "statistics": {
+        "viewCount": "7389610369",
+        "subscriberCount": "3280000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "40684"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "1YV9wvzp2SS4Zgodt5GOHp6Ow1E",
+      "id": "UCXTRFt1vLvZpahQtiKJjLaQ",
+      "snippet": {
+        "title": "AFC Asian Cup",
+        "description": "Welcome to the official AFC Asian Cup YouTube Channel.",
+        "customUrl": "@afcasiancup",
+        "publishedAt": "2010-09-14T03:07:38Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/z8p9-brFMw0CIMx3kJQYKfSQskSfxeqn0NDluTc80doOa6O8HgRW7_wAOAsux7HuUO3z_FQX=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/z8p9-brFMw0CIMx3kJQYKfSQskSfxeqn0NDluTc80doOa6O8HgRW7_wAOAsux7HuUO3z_FQX=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/z8p9-brFMw0CIMx3kJQYKfSQskSfxeqn0NDluTc80doOa6O8HgRW7_wAOAsux7HuUO3z_FQX=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "AFC Asian Cup",
+          "description": "Welcome to the official AFC Asian Cup YouTube Channel."
+        },
+        "country": "MY"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUXTRFt1vLvZpahQtiKJjLaQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "203653508",
+        "subscriberCount": "1010000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "1717"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "-93ozJnnKfPYjUaDmBR3-9iggFM",
+      "id": "UCQ2O-iftmnlfrBuNsUUTofQ",
+      "snippet": {
+        "title": "채널십오야",
+        "description": "채널십오야는 다양한 창작자들의 ‘달나라’가는 꿈같은 콘텐츠들이 업로드 됩니다. 꽉찬 보름달 같은 많은 사랑 부탁 드립니다. #사랑합니다구독감사합니다\n\n",
+        "customUrl": "@15ya.fullmoon",
+        "publishedAt": "2019-05-15T19:43:51Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/dHOrOd1AIHn0xb6mJsy9VuDuQkqcYOFJtdgEyII1fuR-0UKMfJnMYHWuwuROYpuSZ2iqQJ2i_w=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/dHOrOd1AIHn0xb6mJsy9VuDuQkqcYOFJtdgEyII1fuR-0UKMfJnMYHWuwuROYpuSZ2iqQJ2i_w=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/dHOrOd1AIHn0xb6mJsy9VuDuQkqcYOFJtdgEyII1fuR-0UKMfJnMYHWuwuROYpuSZ2iqQJ2i_w=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "채널십오야",
+          "description": "채널십오야는 다양한 창작자들의 ‘달나라’가는 꿈같은 콘텐츠들이 업로드 됩니다. 꽉찬 보름달 같은 많은 사랑 부탁 드립니다. #사랑합니다구독감사합니다\n\n"
+        },
+        "country": "KR"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUQ2O-iftmnlfrBuNsUUTofQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "1872941916",
+        "subscriberCount": "6110000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "1066"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "pj6hEvVmqgMxffMD4Os33R-QTmM",
+      "id": "UChI3EXzhAkRszawlMageKvQ",
+      "snippet": {
+        "title": "리춘수 [이천수]",
+        "description": "전 축구 국가대표 현 방송인, 유튜버, 세 아이의 아빠 이천수의 현란한 일대기\n\n멤버십 가입 : https://www.youtube.com/channel/UChI3EXzhAkRszawlMageKvQ/join\n비즈니스 메일 : leechunsoo2021@gmail.com\n틱톡 : www.tiktok.com/@leechunsoo2021\n",
+        "customUrl": "@leechunsoo10",
+        "publishedAt": "2021-04-18T10:20:28.012541Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/Y_88rTo_gVbANcSfkaiyQzZG2QA3hb8ngCHj4Vp4mOq_nHdzjanpm0bnsEEN9-FeiQSkLSZbPw=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/Y_88rTo_gVbANcSfkaiyQzZG2QA3hb8ngCHj4Vp4mOq_nHdzjanpm0bnsEEN9-FeiQSkLSZbPw=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/Y_88rTo_gVbANcSfkaiyQzZG2QA3hb8ngCHj4Vp4mOq_nHdzjanpm0bnsEEN9-FeiQSkLSZbPw=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "리춘수 [이천수]",
+          "description": "전 축구 국가대표 현 방송인, 유튜버, 세 아이의 아빠 이천수의 현란한 일대기\n\n멤버십 가입 : https://www.youtube.com/channel/UChI3EXzhAkRszawlMageKvQ/join\n비즈니스 메일 : leechunsoo2021@gmail.com\n틱톡 : www.tiktok.com/@leechunsoo2021\n"
+        },
+        "country": "KR"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUhI3EXzhAkRszawlMageKvQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "460020583",
+        "subscriberCount": "714000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "557"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "6G5M9-GaAv41fnzaOYEDXVu48lc",
+      "id": "UCEf_Bc-KVd7onSeifS3py9g",
+      "snippet": {
+        "title": "SMTOWN",
+        "description": "Welcome to SM Entertainment Official YouTube Channel!\nYou can enjoy SM artist's latest videos on SMTOWN Official YouTube Channel.",
+        "customUrl": "@smtown",
+        "publishedAt": "2006-03-18T15:43:10Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/_1Z4I2qpWaCN9g3BcDd3cVA9MDHOG43lE1YNWDNkKro49haGxkjwuFK-I8faWTKM6Jle9qb4ag=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/_1Z4I2qpWaCN9g3BcDd3cVA9MDHOG43lE1YNWDNkKro49haGxkjwuFK-I8faWTKM6Jle9qb4ag=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/_1Z4I2qpWaCN9g3BcDd3cVA9MDHOG43lE1YNWDNkKro49haGxkjwuFK-I8faWTKM6Jle9qb4ag=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "SMTOWN",
+          "description": "Welcome to SM Entertainment Official YouTube Channel!\nYou can enjoy SM artist's latest videos on SMTOWN Official YouTube Channel."
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUEf_Bc-KVd7onSeifS3py9g"
+        }
+      },
+      "statistics": {
+        "viewCount": "28643683280",
+        "subscriberCount": "32300000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "4294"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "QSZQrfvY5h6FbMi5MYnIT36MUGY",
+      "id": "UCnUAyD4t2LkvW68YrDh7fDg",
+      "snippet": {
+        "title": "NMIXX",
+        "description": "NMIXX Official YouTube\n",
+        "customUrl": "@nmixxofficial",
+        "publishedAt": "2021-07-12T03:58:53.536982Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/SnPQRoSPjjSCEnoxeh5cxTlyOxVKsZBUofNDA1gnfridGFQZLDo1Whn3i5eSvEQ5aLqwKiQa=s88-c-k-c0x00ffffff-no-nd-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/SnPQRoSPjjSCEnoxeh5cxTlyOxVKsZBUofNDA1gnfridGFQZLDo1Whn3i5eSvEQ5aLqwKiQa=s240-c-k-c0x00ffffff-no-nd-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/SnPQRoSPjjSCEnoxeh5cxTlyOxVKsZBUofNDA1gnfridGFQZLDo1Whn3i5eSvEQ5aLqwKiQa=s800-c-k-c0x00ffffff-no-nd-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "NMIXX",
+          "description": "NMIXX Official YouTube\n"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUnUAyD4t2LkvW68YrDh7fDg"
+        }
+      },
+      "statistics": {
+        "viewCount": "763346113",
+        "subscriberCount": "2380000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "669"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "TjCtay0nQqrcf0Pg63nhv9F0hJs",
+      "id": "UCnBht7BrOx-A328KFXgysqQ",
+      "snippet": {
+        "title": "쿠팡플레이 스포츠",
+        "description": "",
+        "customUrl": "@coupangplaysports",
+        "publishedAt": "2023-02-22T05:30:36.532101Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/o2POx0Wb_fE0u-9CC8Ph-uZmEq1g7JaZhGlTjyaY3BuPAf-A-0Cjn-ERRtEsyU1pt0PacBwf8A=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/o2POx0Wb_fE0u-9CC8Ph-uZmEq1g7JaZhGlTjyaY3BuPAf-A-0Cjn-ERRtEsyU1pt0PacBwf8A=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/o2POx0Wb_fE0u-9CC8Ph-uZmEq1g7JaZhGlTjyaY3BuPAf-A-0Cjn-ERRtEsyU1pt0PacBwf8A=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "쿠팡플레이 스포츠",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUnBht7BrOx-A328KFXgysqQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "228315282",
+        "subscriberCount": "271000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "1884"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "gymLjGCtmUxKj9ktJbTovUZoTGU",
+      "id": "UCvAewWPqooIUgQUsjhTmUVw",
+      "snippet": {
+        "title": "김숙티비kimsookTV",
+        "description": "안녕하세요. 김숙입니다.\n\n※ 제작·협업 문의: ad@vivolab.tv\n",
+        "customUrl": "@kimsooktv",
+        "publishedAt": "2020-01-06T14:21:59.293301Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIf8zZSReuzje4wBrCge_GCHQjlxgafeLBSJQnT_gUYu-g=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIf8zZSReuzje4wBrCge_GCHQjlxgafeLBSJQnT_gUYu-g=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIf8zZSReuzje4wBrCge_GCHQjlxgafeLBSJQnT_gUYu-g=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "김숙티비kimsookTV",
+          "description": "안녕하세요. 김숙입니다.\n\n※ 제작·협업 문의: ad@vivolab.tv\n"
+        },
+        "country": "KR"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUvAewWPqooIUgQUsjhTmUVw"
+        }
+      },
+      "statistics": {
+        "viewCount": "164469645",
+        "subscriberCount": "573000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "285"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "tbboTsB0sS80Dv9-0fJ9SNjpgCQ",
+      "id": "UCHlSeJxRIXZWMARC2oMwmcQ",
+      "snippet": {
+        "title": "KBS 교양",
+        "description": "✔따뜻한 감동, 알찬 정보 KBS 교양 공식 채널 입니다. \n\n▶문의: kbsdoculife@gmail.com\nⓒ KBS ALL RIGHTS RESERVED\n\n\n",
+        "customUrl": "@kbslife",
+        "publishedAt": "2011-12-28T02:24:38Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/vBtnFUW9TsO2utcT0A6k8YdeKZLxYInispj3Kzl-cvEJtUJoxGaa4sKLjVLIQQXBXOwQRqq5Hw=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/vBtnFUW9TsO2utcT0A6k8YdeKZLxYInispj3Kzl-cvEJtUJoxGaa4sKLjVLIQQXBXOwQRqq5Hw=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/vBtnFUW9TsO2utcT0A6k8YdeKZLxYInispj3Kzl-cvEJtUJoxGaa4sKLjVLIQQXBXOwQRqq5Hw=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "KBS 교양",
+          "description": "✔따뜻한 감동, 알찬 정보 KBS 교양 공식 채널 입니다. \n\n▶문의: kbsdoculife@gmail.com\nⓒ KBS ALL RIGHTS RESERVED\n\n\n"
+        },
+        "country": "KR"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUHlSeJxRIXZWMARC2oMwmcQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "1103785699",
+        "subscriberCount": "1330000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "72403"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "0hLLy3YvTW8NQdm5ZCr32huBupo",
+      "id": "UCe8HrlhMkYlQ_61EjrrQlHw",
+      "snippet": {
+        "title": "차클 플러스",
+        "description": "차이나는 교양을 더하는 시간📚 JTBC 공식 교양 채널 '차클+' 입니다",
+        "customUrl": "@jtbcplus",
+        "publishedAt": "2019-01-21T08:03:19Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/vKzH8Hac029TnC4r4-EUD-9AcJ_aBH2YSjb4c6l72HQTOjFIXDCST-KpIxK6-LQR6KZIGQCfdQ=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/vKzH8Hac029TnC4r4-EUD-9AcJ_aBH2YSjb4c6l72HQTOjFIXDCST-KpIxK6-LQR6KZIGQCfdQ=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/vKzH8Hac029TnC4r4-EUD-9AcJ_aBH2YSjb4c6l72HQTOjFIXDCST-KpIxK6-LQR6KZIGQCfdQ=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "차클 플러스",
+          "description": "차이나는 교양을 더하는 시간📚 JTBC 공식 교양 채널 '차클+' 입니다"
+        },
+        "country": "KR"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUe8HrlhMkYlQ_61EjrrQlHw"
+        }
+      },
+      "statistics": {
+        "viewCount": "312304723",
+        "subscriberCount": "736000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "8883"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "AnYuFzi_ENQZhfgLSRWkX7Az-J0",
+      "id": "UCsxbX6QnOLal_qzzMK9AR9g",
+      "snippet": {
+        "title": "MBN MUSIC",
+        "description": "MBN 공식 음악 채널 MBN MUSIC\n\n▶▶ 광고 및 비즈니스 문의 : mbndc.teams@gmail.com\n",
+        "customUrl": "@music_mbn",
+        "publishedAt": "2020-11-25T10:24:25.807938Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/3OEnzdOyrVemRYQFbDPlFsdUh0nvhcL-ZbWXB-UM2rf8Jbx1I829W6SwaC8eZZWhc_tJ6TFIBA=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/3OEnzdOyrVemRYQFbDPlFsdUh0nvhcL-ZbWXB-UM2rf8Jbx1I829W6SwaC8eZZWhc_tJ6TFIBA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/3OEnzdOyrVemRYQFbDPlFsdUh0nvhcL-ZbWXB-UM2rf8Jbx1I829W6SwaC8eZZWhc_tJ6TFIBA=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "MBN MUSIC",
+          "description": "MBN 공식 음악 채널 MBN MUSIC\n\n▶▶ 광고 및 비즈니스 문의 : mbndc.teams@gmail.com\n"
+        },
+        "country": "KR"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUsxbX6QnOLal_qzzMK9AR9g"
+        }
+      },
+      "statistics": {
+        "viewCount": "561712898",
+        "subscriberCount": "793000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "3722"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "lCFx4XG6BGSN61vZjBLASB6-2Pw",
+      "id": "UC6wiUwl7dPhZOAM92lGgKPg",
+      "snippet": {
+        "title": "KBS HUMAN: 뭉클티비",
+        "description": "[인간극장] [뭉클한 주말- 다큐멘터리 3일] [이것이 인생이다] [마마도] \n[이웃집 찰스] [볼빨간 당신] [사미인곡] [TV내무반 신고합니다] 등의 \n레전드 교양 프로그램 속 뭉클함을 선사하는 채널입니다.😍\n\n'뭉클티비'에 업로드 희망하시는 프로그램이 있으신가요? \n아래 구글 폼에 기입해 주세요.😊\nhttps://forms.gle/61re2Q34ByfCWMHA6\n",
+        "customUrl": "@kbshuman",
+        "publishedAt": "2015-10-26T12:27:55Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIf8zZSDsOCKm8G-VkeBljkW0LTDHscxuQWOIfAJTw2IZA=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIf8zZSDsOCKm8G-VkeBljkW0LTDHscxuQWOIfAJTw2IZA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIf8zZSDsOCKm8G-VkeBljkW0LTDHscxuQWOIfAJTw2IZA=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "KBS HUMAN: 뭉클티비",
+          "description": "[인간극장] [뭉클한 주말- 다큐멘터리 3일] [이것이 인생이다] [마마도] \n[이웃집 찰스] [볼빨간 당신] [사미인곡] [TV내무반 신고합니다] 등의 \n레전드 교양 프로그램 속 뭉클함을 선사하는 채널입니다.😍\n\n'뭉클티비'에 업로드 희망하시는 프로그램이 있으신가요? \n아래 구글 폼에 기입해 주세요.😊\nhttps://forms.gle/61re2Q34ByfCWMHA6\n"
+        },
+        "country": "KR"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU6wiUwl7dPhZOAM92lGgKPg"
+        }
+      },
+      "statistics": {
+        "viewCount": "1088880758",
+        "subscriberCount": "1770000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "7819"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "KlC3xliBPhLMfl7Xv9u9wlTsZMU",
+      "id": "UCee1MvXr6E8qC_d2WEYTU5g",
+      "snippet": {
+        "title": "강형욱의 보듬TV",
+        "description": "저희 채널과 함께 강아지 키워봅시다🐶\n\n🐾구독자 사연 접수: https://forms.gle/YNqGE6j3PtWNzKEu9\n🐾비즈니스 문의 : bodeum@episodegroup.kr \n🐾인스타그램 : @hunter.kang \n\n📌 보듬교육 https://www.bodeum.co.kr/\n📌 보듬숍 https://ppz.kr/",
+        "customUrl": "@bodeumofficial",
+        "publishedAt": "2016-12-13T05:56:37Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/fqO8xV1PmP5bXJEneJ0gyJk010W7t1CW9is-W9arQ-c3muDAq1-ZhA7XNb574sIWpT1q7KnD8w=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/fqO8xV1PmP5bXJEneJ0gyJk010W7t1CW9is-W9arQ-c3muDAq1-ZhA7XNb574sIWpT1q7KnD8w=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/fqO8xV1PmP5bXJEneJ0gyJk010W7t1CW9is-W9arQ-c3muDAq1-ZhA7XNb574sIWpT1q7KnD8w=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "강형욱의 보듬TV",
+          "description": "저희 채널과 함께 강아지 키워봅시다🐶\n\n🐾구독자 사연 접수: https://forms.gle/YNqGE6j3PtWNzKEu9\n🐾비즈니스 문의 : bodeum@episodegroup.kr \n🐾인스타그램 : @hunter.kang \n\n📌 보듬교육 https://www.bodeum.co.kr/\n📌 보듬숍 https://ppz.kr/"
+        },
+        "country": "KR"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUee1MvXr6E8qC_d2WEYTU5g"
+        }
+      },
+      "statistics": {
+        "viewCount": "691192802",
+        "subscriberCount": "1970000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "920"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "ix-9foDHOy1xeL8GbKnAMvhPP1k",
+      "id": "UCN5XdqTDRbyjXPF5NXUqWdA",
+      "snippet": {
+        "title": "요정재형",
+        "description": "",
+        "customUrl": "@fairyjaehyung",
+        "publishedAt": "2022-11-30T10:03:39.773946Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/SijYLJTNsIHnL2T_j-CjSW0vPj75vR4ASYo2NZXimm6bHgVNYqD8gcikbjTyfNEifDxc0lNuwQ=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/SijYLJTNsIHnL2T_j-CjSW0vPj75vR4ASYo2NZXimm6bHgVNYqD8gcikbjTyfNEifDxc0lNuwQ=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/SijYLJTNsIHnL2T_j-CjSW0vPj75vR4ASYo2NZXimm6bHgVNYqD8gcikbjTyfNEifDxc0lNuwQ=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "요정재형",
+          "description": ""
+        },
+        "country": "KR"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUN5XdqTDRbyjXPF5NXUqWdA"
+        }
+      },
+      "statistics": {
+        "viewCount": "29373057",
+        "subscriberCount": "246000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "109"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "nibAyxQ-5HGpdITzk6e31VtOrMI",
+      "id": "UCHE7GBQVtdh-c1m3tjFdevQ",
+      "snippet": {
+        "title": "징버거 JINGBURGER",
+        "description": "The World's Strongest Hamburger Vtuber \n 💛Isegye Idol 💗Re:wind💗 Waktaverse💚\n당신은 오늘 햄버거를 먹어야합니다 \n나의 소중한 이세계아이돌, 왁타버스도 사랑해주세요ლ(╹◡╹ლ)\nこんにちは! 私はハンバーガーが すごく好きなアイドルVtuberです！www\n日本語が下手ですが頑張ります!!!! \nチャンネルに来てくれてありがとうございますが... \n今私を見たあなたはバーガーを食べなければなりません!!\nバーガー最高！XD \n\n\n",
+        "customUrl": "@jingburger",
+        "publishedAt": "2013-12-19T15:05:26Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/dP6avjATHOj_tPP5N6ejgfzDwXDXnfMfOKMjNPOTM4mcJn0-yOHohq5K-2XJaFDktyIVVJ3_KQ=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/dP6avjATHOj_tPP5N6ejgfzDwXDXnfMfOKMjNPOTM4mcJn0-yOHohq5K-2XJaFDktyIVVJ3_KQ=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/dP6avjATHOj_tPP5N6ejgfzDwXDXnfMfOKMjNPOTM4mcJn0-yOHohq5K-2XJaFDktyIVVJ3_KQ=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "징버거 JINGBURGER",
+          "description": "The World's Strongest Hamburger Vtuber \n 💛Isegye Idol 💗Re:wind💗 Waktaverse💚\n당신은 오늘 햄버거를 먹어야합니다 \n나의 소중한 이세계아이돌, 왁타버스도 사랑해주세요ლ(╹◡╹ლ)\nこんにちは! 私はハンバーガーが すごく好きなアイドルVtuberです！www\n日本語が下手ですが頑張ります!!!! \nチャンネルに来てくれてありがとうございますが... \n今私を見たあなたはバーガーを食べなければなりません!!\nバーガー最高！XD \n\n\n"
+        },
+        "country": "KR"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUHE7GBQVtdh-c1m3tjFdevQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "200209296",
+        "subscriberCount": "375000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "627"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "Hbcq4Z37_B-CqlMNtknfk1cyfu0",
+      "id": "UCwf_243cYlm1N3UlKR4dtOw",
+      "snippet": {
+        "title": "위아토트넘TV 코리아",
+        "description": "영국 현지에서 가장 큰 토트넘 채널인 WeAreTottenhamTV 의 벤과 심이 직접 운영하는 채널입니다. 저희 채널은 가짜뉴스, 짜집기, 불펌 등을 절대 하지 않습니다. 3대째 토트넘 골수팬인 형제들이 전해주는 생생한 현지반응을 만나보세요!",
+        "customUrl": "@wattvkorea",
+        "publishedAt": "2023-10-25T20:02:59.197254Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/_hi8mu5QvqYde-A4Gr78QlsZpbhyuAPbRhtth_OehCUBkIBivjqdL1YaC6fAbeAua6B3VMeVmA=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/_hi8mu5QvqYde-A4Gr78QlsZpbhyuAPbRhtth_OehCUBkIBivjqdL1YaC6fAbeAua6B3VMeVmA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/_hi8mu5QvqYde-A4Gr78QlsZpbhyuAPbRhtth_OehCUBkIBivjqdL1YaC6fAbeAua6B3VMeVmA=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "위아토트넘TV 코리아",
+          "description": "영국 현지에서 가장 큰 토트넘 채널인 WeAreTottenhamTV 의 벤과 심이 직접 운영하는 채널입니다. 저희 채널은 가짜뉴스, 짜집기, 불펌 등을 절대 하지 않습니다. 3대째 토트넘 골수팬인 형제들이 전해주는 생생한 현지반응을 만나보세요!"
+        },
+        "country": "GB"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUwf_243cYlm1N3UlKR4dtOw"
+        }
+      },
+      "statistics": {
+        "viewCount": "5117978",
+        "subscriberCount": "23500",
+        "hiddenSubscriberCount": false,
+        "videoCount": "132"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "apn9r17NVaq-6BlNdMYtgV7EuW8",
+      "id": "UCXVhGNDrOfVUYEvuRdM0OXA",
+      "snippet": {
+        "title": "매미킴 TV",
+        "description": "안녕하세요. \"매미킴\"tv의 UFC김동현 입니다. \n[구독]-[좋아요]는 큰 힘이 됩니다🙏\n\n문의☑️: memikim88@gmail.com\n\nWelcome to my channel!\n\nI am Dong-Hyun Kim and I make entertaining, exciting, and inspirational videos about Mixed martial arts (MMA). \nThank you guys so much for watching my channel and I'll see you guys in the next one! Bye!\n\nDon’t forget click the subscribe button!\n",
+        "customUrl": "@stunguntv",
+        "publishedAt": "2019-03-10T17:18:48Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/Np4VzRATCUmtrmplHgaV5ENsIm5vafpxlO_TDtx58hHeVrt5YpGe-49OgpRhNQzGmWaDFWTb=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/Np4VzRATCUmtrmplHgaV5ENsIm5vafpxlO_TDtx58hHeVrt5YpGe-49OgpRhNQzGmWaDFWTb=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/Np4VzRATCUmtrmplHgaV5ENsIm5vafpxlO_TDtx58hHeVrt5YpGe-49OgpRhNQzGmWaDFWTb=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "매미킴 TV",
+          "description": "안녕하세요. \"매미킴\"tv의 UFC김동현 입니다. \n[구독]-[좋아요]는 큰 힘이 됩니다🙏\n\n문의☑️: memikim88@gmail.com\n\nWelcome to my channel!\n\nI am Dong-Hyun Kim and I make entertaining, exciting, and inspirational videos about Mixed martial arts (MMA). \nThank you guys so much for watching my channel and I'll see you guys in the next one! Bye!\n\nDon’t forget click the subscribe button!\n"
+        },
+        "country": "KR"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUXVhGNDrOfVUYEvuRdM0OXA"
+        }
+      },
+      "statistics": {
+        "viewCount": "344173324",
+        "subscriberCount": "756000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "490"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "a-VPJmVwBCsAhXU45nq09jN_qSA",
+      "id": "UCkxvX8lNP_TkiLde378oHUg",
+      "snippet": {
+        "title": "뚝딱Tooktak",
+        "description": "엄마의 손맛이 생각날때.\n한식과 다양한 음식의 요리 과정을 설명과 함께 보는 맛있는 요리 채널.",
+        "customUrl": "@tooktak",
+        "publishedAt": "2017-03-02T12:49:08Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIf8zZQnMzW6bGQxUdeTKTvuLsD66xoIrxqHaeYlDoqriA=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIf8zZQnMzW6bGQxUdeTKTvuLsD66xoIrxqHaeYlDoqriA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIf8zZQnMzW6bGQxUdeTKTvuLsD66xoIrxqHaeYlDoqriA=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "뚝딱Tooktak",
+          "description": "엄마의 손맛이 생각날때.\n한식과 다양한 음식의 요리 과정을 설명과 함께 보는 맛있는 요리 채널."
+        },
+        "country": "KR"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUkxvX8lNP_TkiLde378oHUg"
+        }
+      },
+      "statistics": {
+        "viewCount": "224481567",
+        "subscriberCount": "679000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "2148"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "gTt2MUA5RN4vOy55YMmTMKh1rkg",
+      "id": "UCxQXvvaqwA2NzPXs5775ogw",
+      "snippet": {
+        "title": "M드로메다 스튜디오",
+        "description": "안드로메다급 재미!💫 Bottle flavored.\n\n비즈니스 문의: \nmdromedastudio@mbc.co.kr\n\n",
+        "customUrl": "@mdromedastudio",
+        "publishedAt": "2020-12-08T05:47:36.140213Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/QAGZi-wAY5qYqsR2ZF1bn_bpEeXd35aEOdcW_TzN95OUsPOpQVVXmvUJbpqXk0Xd9ZRV8YKjMw=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/QAGZi-wAY5qYqsR2ZF1bn_bpEeXd35aEOdcW_TzN95OUsPOpQVVXmvUJbpqXk0Xd9ZRV8YKjMw=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/QAGZi-wAY5qYqsR2ZF1bn_bpEeXd35aEOdcW_TzN95OUsPOpQVVXmvUJbpqXk0Xd9ZRV8YKjMw=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "M드로메다 스튜디오",
+          "description": "안드로메다급 재미!💫 Bottle flavored.\n\n비즈니스 문의: \nmdromedastudio@mbc.co.kr\n\n"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUxQXvvaqwA2NzPXs5775ogw"
+        }
+      },
+      "statistics": {
+        "viewCount": "297491236",
+        "subscriberCount": "771000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "681"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "zLERCvwgD6rYyRBDXsJMbPJboqo",
+      "id": "UCYRrUD5v5j_Ei8sKOo7mhoQ",
+      "snippet": {
+        "title": "엠빅뉴스",
+        "description": "스포츠 현장, 이슈 현장으로 \n달려가는 내 손 안의 엠빅\n\nmbignews@mbc.co.kr",
+        "customUrl": "@mbicnews",
+        "publishedAt": "2017-07-27T07:10:04Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIf8zZQ-IST3jF6Qie1_H_iEO6Yz8XxpEg_KeNUzEqrXCA=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIf8zZQ-IST3jF6Qie1_H_iEO6Yz8XxpEg_KeNUzEqrXCA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIf8zZQ-IST3jF6Qie1_H_iEO6Yz8XxpEg_KeNUzEqrXCA=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "엠빅뉴스",
+          "description": "스포츠 현장, 이슈 현장으로 \n달려가는 내 손 안의 엠빅\n\nmbignews@mbc.co.kr"
+        },
+        "country": "KR"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUYRrUD5v5j_Ei8sKOo7mhoQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "2886214275",
+        "subscriberCount": "1160000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "7200"
+      }
+    }
+  ]
+}

@@ -1,21 +1,21 @@
 import React from 'react';
 import { RouterProvider, createBrowserRouter } from 'react-router-dom';
-import Root from './pages/Root';
-import VideoList from './pages/VideoList';
-import Watch from './pages/Watch';
+import RootPage from './pages/RootPage';
+import VideoListPage from './pages/VideoListPage';
+import WatchPage from './pages/WatchPage';
 
 const router = createBrowserRouter([
   {
     path: '/',
-    element: <Root />,
+    element: <RootPage />,
     children: [
       {
         index: true,
-        element: <VideoList />,
+        element: <VideoListPage />,
       },
       {
         path: '/watch',
-        element: <Watch />,
+        element: <WatchPage />,
       },
     ],
   },

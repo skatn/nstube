@@ -1,10 +1,6 @@
 import React from 'react';
-import { useLocation } from 'react-router-dom';
 
-export default function Watch() {
-  const params = new URLSearchParams(useLocation().search);
-  const videoId = params.get('v');
-
+export default function VideoPlayer({ videoId }) {
   return (
     <div>
       <iframe

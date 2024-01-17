@@ -5,8 +5,10 @@ import timeForToday from '../../utils/timeForToday';
 import { Link } from 'react-router-dom';
 
 export default function Video({ video }) {
-  const { thumbnails, title, channelTitle, publishedAt } = video.snippet;
+  const { thumbnails, title, publishedAt } = video.snippet;
   const { viewCount } = video.statistics;
+  const { channel } = video;
+
   return (
     <li>
       <Link to={`/watch?v=${video.id}`}>
@@ -18,12 +20,12 @@ export default function Video({ video }) {
         <div className={styles.description}>
           <img
             className={styles.profile}
-            src={thumbnails.default.url}
+            src={channel.snippet.thumbnails.default.url}
             alt='channel profile'
           />
           <div className={styles.text}>
             <span className={styles.title}>{title}</span>
-            <span className={styles.channelTitle}>{channelTitle}</span>
+            <span className={styles.channelTitle}>{channel.title}</span>
             <div className={styles.meta}>
               <span>조회수 {numberToKorean(viewCount)}회</span>
               <span>•</span>
