@@ -2,6 +2,8 @@
   position: relative;
   width: 100%;
   aspect-ratio: 16 / 9;
+  border-radius: 0.8rem;
+  overflow: hidden;
 }
 
 .videoContainer > iframe {
@@ -43,7 +45,11 @@
 
 .description {
   margin-top: 0.8rem;
-  padding: 0.5rem;
-  border-radius: 0.5rem;
+  padding: 0.8rem;
+  border-radius: 0.8rem;
   background: var(--color-grey-light);
+}
+
+.description > div {
+  color: var(--color-text-light);
 }
