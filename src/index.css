@@ -14,11 +14,11 @@ body {
 
 * {
   box-sizing: border-box;
+  font-size: 0.94rem;
 }
 
 body * {
   color: var(--color-text);
-  font-size: 0.94rem;
   white-space: pre-wrap;
 }
 
