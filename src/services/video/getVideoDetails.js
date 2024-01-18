@@ -15,9 +15,8 @@ export default async function getVideoDetails(videoId) {
       params: {
         part: 'snippet,contentDetails,statistics',
         id: videoId,
-        maxResults: 30,
         key,
       },
     })
-  ).data;
+  ).data.items[0];
 }

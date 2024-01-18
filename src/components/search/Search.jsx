@@ -8,7 +8,7 @@ export default function Search() {
   return (
     <nav className={styles.container}>
       <Link to='/' className={styles.logo}>
-        <FaYoutube size='2.5rem' color='red' />
+        <FaYoutube size='2.5rem' fill='red' />
         <span>NsTube</span>
       </Link>
       <form className={styles.search}>

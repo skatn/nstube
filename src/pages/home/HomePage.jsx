@@ -4,15 +4,18 @@ import styles from './HomePage.module.css';
 import getVideoList from '../../services/video/getVideoList';
 import getChannelList from '../../services/channel/getChannelList';
 import { combineVideoListChannelList } from '../../utils/combineVideoListChannelList';
+import Loading from '../../components/loading/Loading';
 
 export default function VideoListPage() {
-  const [videoList, setVideoList] = useState(initValue);
+  const [videoList, setVideoList] = useState();
 
   useEffect(() => {
     getVideos().then((videoList) => {
       setVideoList(videoList);
     });
   }, []);
+
+  if (!videoList) return <Loading />;
 
   return (
     <ul className={styles.container}>
@@ -30,7 +33,3 @@ async function getVideos() {
 
   return combineVideoListChannelList(videoList, channelList);
 }
-
-const initValue = {
-  items: [],
-};

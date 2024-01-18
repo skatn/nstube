@@ -4,6 +4,8 @@
   --color-grey-dark: #838383;
   --color-blue: #001283;
   --color-white: white;
+
+  --color-text: #0f0f0f;
 }
 
 body {
@@ -14,9 +16,16 @@ body {
   box-sizing: border-box;
 }
 
+body * {
+  color: var(--color-text);
+  font-size: 0.94rem;
+  white-space: pre-wrap;
+}
+
 button {
   outline: none;
   border: none;
+  cursor: pointer;
 }
 
 a {
