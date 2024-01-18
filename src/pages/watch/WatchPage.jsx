@@ -5,7 +5,7 @@ import styles from './WatchPage.module.css';
 import Loading from '../../components/loading/Loading';
 import getVideoDetails from '../../services/video/getVideoDetails';
 import getChannelList from '../../services/channel/getChannelList';
-import CommentBox from '../../components/comment/CommentBox';
+import CommentBox from '../../components/comment/CommentList';
 
 export default function WatchPage() {
   const params = new URLSearchParams(useLocation().search);
@@ -31,9 +31,8 @@ export default function WatchPage() {
   return (
     <div className={styles.container}>
       <VideoPlayer video={video} channel={channel} />
-      <div className={styles.recommand}>관련 동영상</div>
+      <div>관련 동영상</div>
       <CommentBox
-        className={styles.comment}
         videoId={videoId}
         totalCount={Number(video.statistics.commentCount)}
       />
