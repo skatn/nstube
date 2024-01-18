@@ -9,7 +9,7 @@ export default function Search() {
     <nav className={styles.container}>
       <Link to='/' className={styles.logo}>
         <FaYoutube size='2.5rem' fill='red' />
-        <span>NsTube</span>
+        <span className={styles.logoText}>NsTube</span>
       </Link>
       <form className={styles.search}>
         <input type='text' placeholder='검색' />

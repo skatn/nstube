@@ -20,6 +20,10 @@
   letter-spacing: -0.1rem;
 }
 
+.logoText {
+  display: none;
+}
+
 .search {
   width: 100%;
   display: flex;
@@ -51,4 +55,10 @@
 
 .search > button:hover {
   filter: brightness(95%);
+}
+
+@media (min-width: 576px) {
+  .logoText {
+    display: inline;
+  }
 }
