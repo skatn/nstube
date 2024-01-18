@@ -6,6 +6,7 @@ import Loading from '../../components/loading/Loading';
 import getVideoDetails from '../../services/video/getVideoDetails';
 import getChannelList from '../../services/channel/getChannelList';
 import CommentBox from '../../components/comment/CommentList';
+import RecommandList from '../../components/recommand/RecommandList';
 
 export default function WatchPage() {
   const params = new URLSearchParams(useLocation().search);
@@ -13,6 +14,11 @@ export default function WatchPage() {
 
   const [video, setVideo] = useState();
   const [channel, setChannel] = useState();
+
+  const [isSplit, setSplit] = useState(window.innerWidth >= 768);
+  const handleMQuery = (e) => {
+    setSplit(e.matches);
+  };
 
   useEffect(() => {
     async function fetchData() {
@@ -24,18 +30,41 @@ export default function WatchPage() {
     }
 
     fetchData();
+
+    let mediaQuery = window.matchMedia('(min-width: 768px)');
+    mediaQuery.addEventListener('change', handleMQuery);
+    return () => mediaQuery.removeEventListener('change', handleMQuery);
   }, [videoId]);
 
   if (!video || !channel) return <Loading />;
 
   return (
     <div className={styles.container}>
-      <VideoPlayer video={video} channel={channel} />
-      <div>관련 동영상</div>
-      <CommentBox
-        videoId={videoId}
-        totalCount={Number(video.statistics.commentCount)}
-      />
+      {isSplit && (
+        <>
+          <div className={styles.left}>
+            <VideoPlayer video={video} channel={channel} />
+            <CommentBox
+              videoId={videoId}
+              totalCount={Number(video.statistics.commentCount)}
+            />
+          </div>
+          <div className={styles.right}>
+            <RecommandList videoId={videoId} />
+          </div>
+        </>
+      )}
+
+      {!isSplit && (
+        <>
+          <VideoPlayer video={video} channel={channel} />
+          <RecommandList videoId={videoId} />
+          <CommentBox
+            videoId={videoId}
+            totalCount={Number(video.statistics.commentCount)}
+          />
+        </>
+      )}
     </div>
   );
 }

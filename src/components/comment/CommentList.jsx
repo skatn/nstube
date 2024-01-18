@@ -4,7 +4,7 @@ import getCommentThread from '../../services/comment/getCommentThread';
 import Loading from '../loading/Loading';
 import Comment from './Comment';
 
-export default function CommentBox({ videoId, totalCount, className }) {
+export default function CommentBox({ videoId, totalCount }) {
   const [commentList, setCommentList] = useState();
 
   useEffect(() => {
@@ -22,7 +22,7 @@ export default function CommentBox({ videoId, totalCount, className }) {
       </h3>
       <ul>
         {commentList.items.map((comment) => (
-          <Comment comment={comment} />
+          <Comment key={comment.id} comment={comment} />
         ))}
       </ul>
     </div>
