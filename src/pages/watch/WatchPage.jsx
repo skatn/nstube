@@ -30,6 +30,7 @@ export default function WatchPage() {
     }
 
     fetchData();
+    window.scrollTo(0, 0);
 
     let mediaQuery = window.matchMedia('(min-width: 768px)');
     mediaQuery.addEventListener('change', handleMQuery);

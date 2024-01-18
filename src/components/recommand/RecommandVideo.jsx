@@ -7,7 +7,6 @@ import timeForToday from '../../utils/timeForToday';
 export default function RecommandVideo({ video }) {
   const { thumbnails, title, publishedAt, channelTitle } = video.snippet;
   const { viewCount } = video.statistics;
-  console.log(video);
 
   return (
     <li>
@@ -18,15 +17,13 @@ export default function RecommandVideo({ video }) {
             src={thumbnails.standard.url}
             alt='thumbnails'
           />
-          <div className={styles.description}>
-            <div className={styles.text}>
-              <span className={styles.title}>{title}</span>
-              <span className={styles.channelTitle}>{channelTitle}</span>
-              <div className={styles.meta}>
-                <span>조회수 {numberToKorean(viewCount)}회</span>
-                <span>•</span>
-                <span>{timeForToday(publishedAt)}</span>
-              </div>
+          <div className={styles.text}>
+            <span className={styles.title}>{title}</span>
+            <span className={styles.channelTitle}>{channelTitle}</span>
+            <div className={styles.meta}>
+              <span>조회수 {numberToKorean(viewCount)}회</span>
+              <span>•</span>
+              <span>{timeForToday(publishedAt)}</span>
             </div>
           </div>
         </div>

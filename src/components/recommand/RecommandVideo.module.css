@@ -10,11 +10,6 @@
   object-fit: cover;
 }
 
-.description {
-  display: flex;
-  margin-top: 0.5rem;
-}
-
 .profile {
   width: 2rem;
   height: 2rem;
