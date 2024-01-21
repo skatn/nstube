@@ -22,7 +22,7 @@ export default function WatchPage() {
 
   useEffect(() => {
     async function fetchData() {
-      const video = await getVideoDetails(videoId);
+      const video = (await getVideoDetails([videoId]))[0];
       const channel = await getChannelList([video.snippet.channelId]);
 
       setVideo(video);

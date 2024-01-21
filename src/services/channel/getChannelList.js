@@ -6,7 +6,8 @@ const useMock = process.env.REACT_APP_USE_MOCK === '1';
 
 export default async function getChannelList(channelIds) {
   if (useMock) {
-    return await (await fetch('/data/channel-list.json')).json();
+    // return await (await fetch('/data/channel-list.json')).json();
+    return await (await fetch('/data/channel-list-홍구.json')).json();
   }
 
   return await (

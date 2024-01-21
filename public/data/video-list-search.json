@@ -1,983 +1,1031 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "L7EfUiFHjU007KMxDAZjfRsZzRo",
+  "etag": "vjtJtrcNSHp9DxivTM_RZnTJs-8",
   "nextPageToken": "CB4QAA",
   "regionCode": "KR",
   "pageInfo": {
-    "totalResults": 1000000,
+    "totalResults": 786290,
     "resultsPerPage": 30
   },
   "items": [
     {
       "kind": "youtube#searchResult",
-      "etag": "oiedPU-6htFlB_Py1teMniUtAT8",
+      "etag": "rDbhzIlvLtn_Do_QTT4DOKkIwyQ",
       "id": {
         "kind": "youtube#video",
-        "videoId": "RmYqPTjzqi0"
+        "videoId": "tjFLMqlBps8"
       },
       "snippet": {
-        "publishedAt": "2018-01-30T06:58:18Z",
-        "channelId": "UCEgtFHO_5ZXhzu0eYjowHHQ",
-        "title": "코코 (자막판)",
-        "description": "음악을 싫어하는 가족들의 반대에도 불구하고 뮤지션을 꿈꾸는 소년 미구엘은 전설적인 가수 에르네스토 델라크루즈의 기타에 손을 ...",
+        "publishedAt": "2024-01-14T02:29:56Z",
+        "channelId": "UC4P7F8qenDo1O_5NvgBb_cg",
+        "title": "공방킬러 : 제거대상 ... &#39;홍구&#39; 확인",
+        "description": "스타크래프트 저그 전프로 홍구의 공식 스타채널입니다^^ #홍구 #공방 #참교육 #킬러 #초고수 #스타 #엽기전략 ✌구독과 좋아요는 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/RmYqPTjzqi0/default.jpg",
+            "url": "https://i.ytimg.com/vi/tjFLMqlBps8/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/RmYqPTjzqi0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/tjFLMqlBps8/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/RmYqPTjzqi0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/tjFLMqlBps8/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "YouTube Movies",
+        "channelTitle": "발스타홍구",
         "liveBroadcastContent": "none",
-        "publishTime": "2018-01-30T06:58:18Z"
+        "publishTime": "2024-01-14T02:29:56Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "MdGGpw2NhqPaKOz-kEMMJcK9yZg",
+      "etag": "3lCSDrP3T35mrz2EcTEDm6_nqhw",
       "id": {
         "kind": "youtube#video",
-        "videoId": "D2wibFUsEic"
+        "videoId": "MmXNIwaRb9M"
       },
       "snippet": {
-        "publishedAt": "2013-03-21T04:12:53Z",
-        "channelId": "UC97-Nh_jq9jn0GhghL1KjAw",
-        "title": "레미제라블",
-        "description": "'레미제라블'은 19세기 프랑스를 배경으로 깨어진 꿈, 짝사랑, 열정, 희생, 구원 등 인간 영혼의 생존에 대한 시간을 초월한 증거에 관해 ...",
+        "publishedAt": "2024-01-12T02:30:26Z",
+        "channelId": "UC4P7F8qenDo1O_5NvgBb_cg",
+        "title": "경찰공시생(35세/무직) : 드디어 홍구 넌 끝났어 이 XX야 ㅋㅋㅋㅋㅋ",
+        "description": "스타크래프트 저그 전프로 홍구의 공식 스타채널입니다^^ #홍구 #공방 #참교육 #공시생 #공시생좌 #공무원 #스타 #엽기전략 ✌구독 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/D2wibFUsEic/default.jpg",
+            "url": "https://i.ytimg.com/vi/MmXNIwaRb9M/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/D2wibFUsEic/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/MmXNIwaRb9M/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/D2wibFUsEic/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/MmXNIwaRb9M/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "YouTube Movies",
+        "channelTitle": "발스타홍구",
         "liveBroadcastContent": "none",
-        "publishTime": "2013-03-21T04:12:53Z"
+        "publishTime": "2024-01-12T02:30:26Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "pxmrF1abDYVG4m2HeADd0QN-wZU",
+      "etag": "0AtZcfeclMvxC20X260Ttc1j5Xs",
       "id": {
         "kind": "youtube#video",
-        "videoId": "QWp_UjPlIpI"
+        "videoId": "En61I-NoC_Q"
       },
       "snippet": {
-        "publishedAt": "2020-01-07T14:00:04Z",
-        "channelId": "UCIJwWYOfsCfz6PjxbONYXSg",
-        "title": "Day 8 - 14 | Blogilates 2020 Challenge",
-        "description": "You guys are CRUSHING the #2020Challenge so far! Idk about you but my abs are soooooore! This week, we're doing 20 reps of ...",
+        "publishedAt": "2024-01-17T02:30:04Z",
+        "channelId": "UC4P7F8qenDo1O_5NvgBb_cg",
+        "title": "홍구때문에 도주생활중인 레전드 빌런 ... 더이상 피하지 않겠다며 이길때까지 덤빈다는데?",
+        "description": "스타크래프트 저그 전프로 홍구의 공식 스타채널입니다^^ #홍구 #공방 #참교육 #죄수번호좌 #복수전 #죄수번호 #스타 #엽기전략 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/QWp_UjPlIpI/default.jpg",
+            "url": "https://i.ytimg.com/vi/En61I-NoC_Q/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/QWp_UjPlIpI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/En61I-NoC_Q/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/QWp_UjPlIpI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/En61I-NoC_Q/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "blogilates",
+        "channelTitle": "발스타홍구",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-01-07T14:00:04Z"
+        "publishTime": "2024-01-17T02:30:04Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "gJvbv89gZATAL8Aol7xu00nVrhg",
-      "id": {
-        "kind": "youtube#channel",
-        "channelId": "UC33yEDM8q3N8BeMpZMdP66Q"
-      },
-      "snippet": {
-        "publishedAt": "2021-09-07T04:27:51Z",
-        "channelId": "UC33yEDM8q3N8BeMpZMdP66Q",
-        "title": "TVCHOSUN MUSIC",
-        "description": "당신의 심장을 뛰게 할 즐거운 음악 여행 오직 TV CHOSUN MUSIC에서만 만나볼 수 있는 다양한 음악 콘텐츠를 만나러 함께 떠나 ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://yt3.ggpht.com/wob--i82mX70JNk88Trkbzd3G1ewSfthy6vXbiNCf8Grf0oFiNls0Kod8CYQYJ1vVutetYYNls8=s88-c-k-c0xffffffff-no-rj-mo"
-          },
-          "medium": {
-            "url": "https://yt3.ggpht.com/wob--i82mX70JNk88Trkbzd3G1ewSfthy6vXbiNCf8Grf0oFiNls0Kod8CYQYJ1vVutetYYNls8=s240-c-k-c0xffffffff-no-rj-mo"
-          },
-          "high": {
-            "url": "https://yt3.ggpht.com/wob--i82mX70JNk88Trkbzd3G1ewSfthy6vXbiNCf8Grf0oFiNls0Kod8CYQYJ1vVutetYYNls8=s800-c-k-c0xffffffff-no-rj-mo"
-          }
-        },
-        "channelTitle": "TVCHOSUN MUSIC",
-        "liveBroadcastContent": "live",
-        "publishTime": "2021-09-07T04:27:51Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "d4Dvn53Yr8LN_sKMssKspCFyepQ",
-      "id": {
-        "kind": "youtube#channel",
-        "channelId": "UCT7KFGv6s2a-rh2Jq8ZdM1g"
-      },
-      "snippet": {
-        "publishedAt": "2015-10-05T17:11:42Z",
-        "channelId": "UCT7KFGv6s2a-rh2Jq8ZdM1g",
-        "title": "Crónica TV",
-        "description": "El canal número 1 de noticias de Argentina. Creador de un estilo informativo único con sus clásicas placas rojas, siempre firme ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://yt3.ggpht.com/c7dt_-IAqXFemCXRc6XBV9ob_dbhmmhhLlAGgxv8SbrRmEo1e6Ajsp_qelN3PXgnNjpggyvQMA=s88-c-k-c0xffffffff-no-rj-mo"
-          },
-          "medium": {
-            "url": "https://yt3.ggpht.com/c7dt_-IAqXFemCXRc6XBV9ob_dbhmmhhLlAGgxv8SbrRmEo1e6Ajsp_qelN3PXgnNjpggyvQMA=s240-c-k-c0xffffffff-no-rj-mo"
-          },
-          "high": {
-            "url": "https://yt3.ggpht.com/c7dt_-IAqXFemCXRc6XBV9ob_dbhmmhhLlAGgxv8SbrRmEo1e6Ajsp_qelN3PXgnNjpggyvQMA=s800-c-k-c0xffffffff-no-rj-mo"
-          }
-        },
-        "channelTitle": "Crónica TV",
-        "liveBroadcastContent": "live",
-        "publishTime": "2015-10-05T17:11:42Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "St9z6iKSp9HCuUGJLKqX8DWr1Tk",
-      "id": {
-        "kind": "youtube#channel",
-        "channelId": "UCuXTHFVxa6tPC_jmqwpyOUA"
-      },
-      "snippet": {
-        "publishedAt": "2021-06-02T12:36:34Z",
-        "channelId": "UCuXTHFVxa6tPC_jmqwpyOUA",
-        "title": "PBA TV",
-        "description": "「PBA」 프로당구협회 공식 유튜브 채널입니다.  The official YouTube Page of the PBA TOUR 라이브 중계, 경기 하이라이트, 선수 ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://yt3.ggpht.com/se61C9I-aTJvGWsyQ3BSRGhyr5UTUW_NOngubLJH9mC4iN7VoiQoSVUdnX9Xm-jdEZ6Vv6jn7A=s88-c-k-c0xffffffff-no-rj-mo"
-          },
-          "medium": {
-            "url": "https://yt3.ggpht.com/se61C9I-aTJvGWsyQ3BSRGhyr5UTUW_NOngubLJH9mC4iN7VoiQoSVUdnX9Xm-jdEZ6Vv6jn7A=s240-c-k-c0xffffffff-no-rj-mo"
-          },
-          "high": {
-            "url": "https://yt3.ggpht.com/se61C9I-aTJvGWsyQ3BSRGhyr5UTUW_NOngubLJH9mC4iN7VoiQoSVUdnX9Xm-jdEZ6Vv6jn7A=s800-c-k-c0xffffffff-no-rj-mo"
-          }
-        },
-        "channelTitle": "PBA TV",
-        "liveBroadcastContent": "live",
-        "publishTime": "2021-06-02T12:36:34Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "aKU_ybP1xwjjvvjL4pEKCOCm22Y",
-      "id": {
-        "kind": "youtube#channel",
-        "channelId": "UCnaYdmgTkKKR0XN2oPr8mcw"
-      },
-      "snippet": {
-        "publishedAt": "2017-08-22T11:09:29Z",
-        "channelId": "UCnaYdmgTkKKR0XN2oPr8mcw",
-        "title": "백대종(뱀세키🐍)",
-        "description": "안녕하세요 백대종입니다. 관심 가져주시고 방문해 주셔서 감사합니다. 우리은행 백대종 1002842723632.",
-        "thumbnails": {
-          "default": {
-            "url": "https://yt3.ggpht.com/rxfkEPJ_ril05unw19Tt0GGm47Gfgv-Z_gE9zKoRl3xOL2947KG0fB6bkPbEuhMTGxIkV1kkMw=s88-c-k-c0xffffffff-no-rj-mo"
-          },
-          "medium": {
-            "url": "https://yt3.ggpht.com/rxfkEPJ_ril05unw19Tt0GGm47Gfgv-Z_gE9zKoRl3xOL2947KG0fB6bkPbEuhMTGxIkV1kkMw=s240-c-k-c0xffffffff-no-rj-mo"
-          },
-          "high": {
-            "url": "https://yt3.ggpht.com/rxfkEPJ_ril05unw19Tt0GGm47Gfgv-Z_gE9zKoRl3xOL2947KG0fB6bkPbEuhMTGxIkV1kkMw=s800-c-k-c0xffffffff-no-rj-mo"
-          }
-        },
-        "channelTitle": "백대종(뱀세키🐍)",
-        "liveBroadcastContent": "live",
-        "publishTime": "2017-08-22T11:09:29Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "V0HBkh6Nwn3HFTYy0XHa5l20Fn4",
-      "id": {
-        "kind": "youtube#channel",
-        "channelId": "UCgU95GGhJsP5mQumAuW1ffg"
-      },
-      "snippet": {
-        "publishedAt": "2021-08-16T07:06:55Z",
-        "channelId": "UCgU95GGhJsP5mQumAuW1ffg",
-        "title": "슬롯 놀이터D",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://yt3.ggpht.com/B6MimfC_evm8xTYYHTjK6AqASQniTckNbuGi2gtEaQHk-vTu_kvBvoyoiGFIq6a-PEmoKp99SQ=s88-c-k-c0xffffffff-no-rj-mo"
-          },
-          "medium": {
-            "url": "https://yt3.ggpht.com/B6MimfC_evm8xTYYHTjK6AqASQniTckNbuGi2gtEaQHk-vTu_kvBvoyoiGFIq6a-PEmoKp99SQ=s240-c-k-c0xffffffff-no-rj-mo"
-          },
-          "high": {
-            "url": "https://yt3.ggpht.com/B6MimfC_evm8xTYYHTjK6AqASQniTckNbuGi2gtEaQHk-vTu_kvBvoyoiGFIq6a-PEmoKp99SQ=s800-c-k-c0xffffffff-no-rj-mo"
-          }
-        },
-        "channelTitle": "슬롯 놀이터D",
-        "liveBroadcastContent": "live",
-        "publishTime": "2021-08-16T07:06:55Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "PPWgny5MHu7fjSv3Xt0Wpss8heM",
-      "id": {
-        "kind": "youtube#channel",
-        "channelId": "UCAg7hn6JVjO7MqpGpMg35qA"
-      },
-      "snippet": {
-        "publishedAt": "2022-08-19T02:46:50Z",
-        "channelId": "UCAg7hn6JVjO7MqpGpMg35qA",
-        "title": "Pit & Penny Learn and Grow!",
-        "description": "Welcome to Pit & Penny Learn and Grow! channel! Let your kids learn and develop quickly Bright educational videos your ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://yt3.ggpht.com/Xk_jQeQ2d9n5jSK2bOuSGYipulQbB0V9S608cTOsjodtv-TOewLm_HBFjZfSAI7F5V-pItkt6w=s88-c-k-c0xffffffff-no-rj-mo"
-          },
-          "medium": {
-            "url": "https://yt3.ggpht.com/Xk_jQeQ2d9n5jSK2bOuSGYipulQbB0V9S608cTOsjodtv-TOewLm_HBFjZfSAI7F5V-pItkt6w=s240-c-k-c0xffffffff-no-rj-mo"
-          },
-          "high": {
-            "url": "https://yt3.ggpht.com/Xk_jQeQ2d9n5jSK2bOuSGYipulQbB0V9S608cTOsjodtv-TOewLm_HBFjZfSAI7F5V-pItkt6w=s800-c-k-c0xffffffff-no-rj-mo"
-          }
-        },
-        "channelTitle": "Pit & Penny Learn and Grow!",
-        "liveBroadcastContent": "live",
-        "publishTime": "2022-08-19T02:46:50Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "z9m8tTkyBKc4jkxwuVnRG3Q28wI",
-      "id": {
-        "kind": "youtube#channel",
-        "channelId": "UC9stxmmO1eaSTh9F9WETURg"
-      },
-      "snippet": {
-        "publishedAt": "2023-02-19T08:36:08Z",
-        "channelId": "UC9stxmmO1eaSTh9F9WETURg",
-        "title": "웨돔의 비트코인 (wedom)",
-        "description": "웨돔 커뮤니티 주소 : http://wedomtube.com ☞ 웨돔 커뮤니티에는 거래소 가입 링크, 각종 이벤트대회 링크, 웨돔 텔레그램(관점 및 ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://yt3.ggpht.com/HDg4jeTmw2gLIGbJ_kLk2ArDYP97H2gnDe3XrGeAyawGViuF-plxwR6TuuEMm6giWlJYCkB_nQ=s88-c-k-c0xffffffff-no-rj-mo"
-          },
-          "medium": {
-            "url": "https://yt3.ggpht.com/HDg4jeTmw2gLIGbJ_kLk2ArDYP97H2gnDe3XrGeAyawGViuF-plxwR6TuuEMm6giWlJYCkB_nQ=s240-c-k-c0xffffffff-no-rj-mo"
-          },
-          "high": {
-            "url": "https://yt3.ggpht.com/HDg4jeTmw2gLIGbJ_kLk2ArDYP97H2gnDe3XrGeAyawGViuF-plxwR6TuuEMm6giWlJYCkB_nQ=s800-c-k-c0xffffffff-no-rj-mo"
-          }
-        },
-        "channelTitle": "웨돔의 비트코인 (wedom)",
-        "liveBroadcastContent": "live",
-        "publishTime": "2023-02-19T08:36:08Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "RoyjrsrxZJhBo9DxnA5LMOGf7V4",
-      "id": {
-        "kind": "youtube#channel",
-        "channelId": "UCPUeGC_AL-OnDQORKhRm6iA"
-      },
-      "snippet": {
-        "publishedAt": "2011-05-26T01:13:40Z",
-        "channelId": "UCPUeGC_AL-OnDQORKhRm6iA",
-        "title": "뽀로로(Pororo)",
-        "description": "노는 게 제일 좋은 꼬마 펭귄 뽀로로! 구독 버튼을 눌러 친구가 되어주세요! Let's find out what Pororo and his friends will get into this ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://yt3.ggpht.com/E9moNyB_-PTLx9-Fca7qlzWWYfOET0iIA3NSYtZG7cftTn9q3kTvx8n-tOa4SafldUnQbILE=s88-c-k-c0xffffffff-no-rj-mo"
-          },
-          "medium": {
-            "url": "https://yt3.ggpht.com/E9moNyB_-PTLx9-Fca7qlzWWYfOET0iIA3NSYtZG7cftTn9q3kTvx8n-tOa4SafldUnQbILE=s240-c-k-c0xffffffff-no-rj-mo"
-          },
-          "high": {
-            "url": "https://yt3.ggpht.com/E9moNyB_-PTLx9-Fca7qlzWWYfOET0iIA3NSYtZG7cftTn9q3kTvx8n-tOa4SafldUnQbILE=s800-c-k-c0xffffffff-no-rj-mo"
-          }
-        },
-        "channelTitle": "뽀로로(Pororo)",
-        "liveBroadcastContent": "live",
-        "publishTime": "2011-05-26T01:13:40Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "nqLKy0M3APETLAlucuMyn-5lBFw",
+      "etag": "YjDkzAPTOCiSe8Abd7cWwJVNo3w",
       "id": {
         "kind": "youtube#video",
-        "videoId": "v0us40h9QyU"
+        "videoId": "3HGRv3YvH2k"
       },
       "snippet": {
-        "publishedAt": "2023-12-12T18:02:23Z",
-        "channelId": "UC-kzuB1mP2LnmaXMPniKeyg",
-        "title": "SBT CENTRAL -  AO VIVO - 24 HORAS",
-        "description": "Transmissão oficial do SBT, regional central no Youtube. Siga nosso instagram: @sbtregionalsp #sbt #aovivo #tv #jornalismo ...",
+        "publishedAt": "2024-01-16T02:32:05Z",
+        "channelId": "UC4P7F8qenDo1O_5NvgBb_cg",
+        "title": "홍구상대 : 오늘 반차썼다 ㅋㅋㅋㅋㅋ 아침에 행복 스타크래프트 해야지~",
+        "description": "스타크래프트 저그 전프로 홍구의 공식 스타채널입니다^^ #홍구 #공방 #참교육 #반차 #휴가 #아산백호 #스타 #엽기전략 ✌구독과 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/v0us40h9QyU/default_live.jpg",
+            "url": "https://i.ytimg.com/vi/3HGRv3YvH2k/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/v0us40h9QyU/mqdefault_live.jpg",
+            "url": "https://i.ytimg.com/vi/3HGRv3YvH2k/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/v0us40h9QyU/hqdefault_live.jpg",
+            "url": "https://i.ytimg.com/vi/3HGRv3YvH2k/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "SBT CENTRAL",
-        "liveBroadcastContent": "live",
-        "publishTime": "2023-12-12T18:02:23Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "F8ZCb3Z9p-8ESh1e25SRFoPhgkg",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "q5KYHzrzojg"
-      },
-      "snippet": {
-        "publishedAt": "2023-12-25T22:37:19Z",
-        "channelId": "UCBnMxlW70f0SB4ZTJx124lw",
-        "title": "☕️카페사장님들❗️오늘은 이 음악 틀어요 😘😘 𝘾𝘼𝙁𝙀&amp;𝙅𝘼𝙕𝙕  l 카페재즈, 매장음악 l 𝙍𝙚𝙡𝙖𝙭𝙞𝙣𝙜 𝙅𝙖𝙯𝙯 𝙋𝙞𝙖𝙣𝙤 𝙈𝙪𝙨𝙞𝙘 𝙛𝙤𝙧 𝘾𝙖𝙛𝙚,𝘾𝙤𝙛𝙛𝙚𝙚 𝙎𝙝𝙤𝙥💖",
-        "description": "모든 음원은 직접 연주한 음원입니다.(All the music is directly performed.) ✨CAFE&JAZZ ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/q5KYHzrzojg/default_live.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/q5KYHzrzojg/mqdefault_live.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/q5KYHzrzojg/hqdefault_live.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "MONKEY BGM",
-        "liveBroadcastContent": "live",
-        "publishTime": "2023-12-25T22:37:19Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "Y8XoYd32_u42j3XJUQEKEAs3ZFE",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "JZcKGC-Dc-8"
-      },
-      "snippet": {
-        "publishedAt": "2022-07-01T13:00:18Z",
-        "channelId": "UC-P2-9l2IKuskSnzF3pnTPQ",
-        "title": "COLOR FUN 🔵🟣🟡 Stories for Kids | Lingokids Podcast",
-        "description": "Color Fun Story for kids - Lingokids podcasts | Subscribe for WEEKLY NEW STORIES for kids ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/JZcKGC-Dc-8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/JZcKGC-Dc-8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/JZcKGC-Dc-8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Lingokids Podcasts - Stories for Kids",
+        "channelTitle": "발스타홍구",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-07-01T13:00:18Z"
+        "publishTime": "2024-01-16T02:32:05Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "4BtZ-35osYgTobXTd-zRTUc2G5g",
+      "etag": "cryJeI72-GfupumDGy8j8pBM2ag",
       "id": {
         "kind": "youtube#video",
-        "videoId": "vw_5rIXWKqQ"
+        "videoId": "qHJS-SI7qEs"
       },
       "snippet": {
-        "publishedAt": "2021-11-29T15:00:28Z",
-        "channelId": "UCSWZxpzUTkriCZRe0Nl0UqA",
-        "title": "18 Coolest Gadgets for Men That Are Worth Seeing",
-        "description": "The first 100 people to download Endel at https://app.adjust.com/b8wxub6?campaign=youfacttech_november&adgroup=youtube ...",
+        "publishedAt": "2024-01-15T02:30:01Z",
+        "channelId": "UC4P7F8qenDo1O_5NvgBb_cg",
+        "title": "현재까지 총 스코어 ... 홍구 3:3 공방킬러 ;;;",
+        "description": "스타크래프트 저그 전프로 홍구의 공식 스타채널입니다^^ #홍구 #공방 #참교육 #킬러 #초고수 #스타 #엽기전략 ✌구독과 좋아요는 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/vw_5rIXWKqQ/default.jpg",
+            "url": "https://i.ytimg.com/vi/qHJS-SI7qEs/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/vw_5rIXWKqQ/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/qHJS-SI7qEs/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/vw_5rIXWKqQ/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/qHJS-SI7qEs/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "YouFact Tech",
+        "channelTitle": "발스타홍구",
         "liveBroadcastContent": "none",
-        "publishTime": "2021-11-29T15:00:28Z"
+        "publishTime": "2024-01-15T02:30:01Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "8uCrBuct2lKLYFrK7m6J2E9qE74",
+      "etag": "mhysE2Egz1NmW_Y73SWu5OemdOo",
       "id": {
         "kind": "youtube#video",
-        "videoId": "sHpGT4SQwgw"
+        "videoId": "nZaw0OXKw18"
       },
       "snippet": {
-        "publishedAt": "2015-12-16T15:00:05Z",
-        "channelId": "UCLOPnWTgJpP2KN2gquoNrhg",
-        "title": "인턴",
-        "description": "영화 “인턴”에서 주인공인 70세 홀아비 밴 휘터커(로버트 드니로)는 은퇴 생활이 기대했던 것과 다르다는 것을 깨닫는다. 다시 한번 ...",
+        "publishedAt": "2023-12-29T02:30:00Z",
+        "channelId": "UC4P7F8qenDo1O_5NvgBb_cg",
+        "title": "연말특집으로 빌런스타리그를 개최한 홍구 ... 본인이 뽑은 최악빌런 1위, 2위를 붙이게 되는데? ㅋㅋㅋㅋㅋ",
+        "description": "스타크래프트 저그 전프로 홍구의 공식 스타채널입니다^^ #홍구 #공방 #참교육 #빌런스타리그 #타골좌 #팝콘좌 #타임이즈골드 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/sHpGT4SQwgw/default.jpg",
+            "url": "https://i.ytimg.com/vi/nZaw0OXKw18/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/sHpGT4SQwgw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/nZaw0OXKw18/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/sHpGT4SQwgw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/nZaw0OXKw18/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "YouTube Movies",
+        "channelTitle": "발스타홍구",
         "liveBroadcastContent": "none",
-        "publishTime": "2015-12-16T15:00:05Z"
+        "publishTime": "2023-12-29T02:30:00Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "jQ3I9cGMVp3S5OBer7Nvdnf5A9M",
+      "etag": "8Ejo1TFNYv9QIEsfZWWWKsoqwdA",
       "id": {
         "kind": "youtube#video",
-        "videoId": "n9C03iCnmmo"
+        "videoId": "mMjsgJTJDwY"
       },
       "snippet": {
-        "publishedAt": "2016-06-14T16:14:36Z",
-        "channelId": "UCaUAdrFP7kPGTLrAdYNGG4w",
-        "title": "줄무늬 파자마를 입은 소년",
-        "description": "가족과 함께 베를린의 집에서 폴란드의 낯선 집으로 이사 온 어린 소년 브루노는, 철망 너머의 모든 사람들이 줄무늬 파자마를 입고 ...",
+        "publishedAt": "2023-12-30T02:30:04Z",
+        "channelId": "UC4P7F8qenDo1O_5NvgBb_cg",
+        "title": "빌런리그 상금에 눈돌아간 빌런 선수들 ... 홍구가 시키지않아도 알아서 개처럼 싸우는데? ㅋㅋㅋㅋㅋ",
+        "description": "스타크래프트 저그 전프로 홍구의 공식 스타채널입니다^^ #홍구 #공방 #참교육 #빌런스타리그 #타골좌 #팝콘좌 #타임이즈골드 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/n9C03iCnmmo/default.jpg",
+            "url": "https://i.ytimg.com/vi/mMjsgJTJDwY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/n9C03iCnmmo/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/mMjsgJTJDwY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/n9C03iCnmmo/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/mMjsgJTJDwY/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "YouTube Movies",
+        "channelTitle": "발스타홍구",
         "liveBroadcastContent": "none",
-        "publishTime": "2016-06-14T16:14:36Z"
+        "publishTime": "2023-12-30T02:30:04Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "7xE_Hb2cNJKcBvAjJ9SEJc7_8dM",
+      "etag": "0Wp5WKT4OhXQzXaazvkDqbaJt8s",
       "id": {
         "kind": "youtube#video",
-        "videoId": "jCSADOjvgz8"
+        "videoId": "4kqCdosUF44"
       },
       "snippet": {
-        "publishedAt": "2014-07-19T08:01:26Z",
-        "channelId": "UC2lm36exeRNco0HcguJvGVQ",
-        "title": "레볼루셔너리 로드",
-        "description": "아카데미상®에 노미네이트된 레오나르도 디카프리오와 아카데미상® 수상자 케이트 윈슬렛, 두 강력한 스타가 리처드 예이츠의 동명 ...",
+        "publishedAt": "2024-01-19T02:30:00Z",
+        "channelId": "UC4P7F8qenDo1O_5NvgBb_cg",
+        "title": "현재 전적 950승 53패의 상대 ... 홍구는 자길 안만났다며 무효라고 주장하는데? ㅋㅋㅋㅋㅋ",
+        "description": "스타크래프트 저그 전프로 홍구의 공식 스타채널입니다^^ #홍구 #사기맵 #1시간 #공방 #참교육 #스타 #엽기전략 ✌구독과 좋아요는 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/jCSADOjvgz8/default.jpg",
+            "url": "https://i.ytimg.com/vi/4kqCdosUF44/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/jCSADOjvgz8/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/4kqCdosUF44/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/jCSADOjvgz8/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/4kqCdosUF44/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "YouTube Movies",
+        "channelTitle": "발스타홍구",
         "liveBroadcastContent": "none",
-        "publishTime": "2014-07-19T08:01:26Z"
+        "publishTime": "2024-01-19T02:30:00Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "uVupr1de5eMW_BKDz3B-41JDg4M",
+      "etag": "sSWz9OBvNARKFIGsJ5tWEnHTbEA",
       "id": {
         "kind": "youtube#video",
-        "videoId": "Q8cqUa05v24"
+        "videoId": "788UgdP9K8w"
       },
       "snippet": {
-        "publishedAt": "2023-10-27T03:30:47Z",
-        "channelId": "UCHLxiySp_bOSL0TsUcPV0Iw",
-        "title": "실제 신경 정신과에서 사용하는 심신 뇌파 안정과 숙면에 효과가 있는 음악 🎵 그것은 당신의 마음을 휴식을 취할 시간이다",
-        "description": "실제 신경 정신과에서 사용하는 심신 뇌파 안정과 숙면에 효과가 있는 음악 그것은 당신의 마음을 휴식을 취할 시간이다 MERCH: ...",
+        "publishedAt": "2023-11-29T02:37:55Z",
+        "channelId": "UC4P7F8qenDo1O_5NvgBb_cg",
+        "title": "홍구와 시청자들 모두 예상 못했던 충격결말!? ... &#39;충청북도 제천짱&#39; vs &#39;전라남도 순천짱&#39;의 결과는!?",
+        "description": "스타크래프트 저그 전프로 홍구의 공식 스타채널입니다^^ #홍구 #공방 #참교육 #빌런스타리그 #제천좌 #순천좌 #지역대전 #스타 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Q8cqUa05v24/default_live.jpg",
+            "url": "https://i.ytimg.com/vi/788UgdP9K8w/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Q8cqUa05v24/mqdefault_live.jpg",
+            "url": "https://i.ytimg.com/vi/788UgdP9K8w/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Q8cqUa05v24/hqdefault_live.jpg",
+            "url": "https://i.ytimg.com/vi/788UgdP9K8w/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Relax Gently",
-        "liveBroadcastContent": "live",
-        "publishTime": "2023-10-27T03:30:47Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "aNAQ2fSUrGADHOcRAtl_doZ0DCw",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "3yZBQbyV0Io"
-      },
-      "snippet": {
-        "publishedAt": "2014-02-09T14:13:17Z",
-        "channelId": "UCzZqYRwFNBxlqg1vhXEdNPw",
-        "title": "슈퍼맨 2",
-        "description": "테러리스트들이 파리의 에펠탑을 점거하고 관광객을 인질로 하여 프랑스 정부에게 자기들의 요구를 들어주지 않으면 수소폭탄을 터 ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/3yZBQbyV0Io/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/3yZBQbyV0Io/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/3yZBQbyV0Io/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "YouTube Movies",
+        "channelTitle": "발스타홍구",
         "liveBroadcastContent": "none",
-        "publishTime": "2014-02-09T14:13:17Z"
+        "publishTime": "2023-11-29T02:37:55Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "s3pOnyNXjqmG00A_wPlWBQlK-lU",
+      "etag": "FwazR69WTSuFgfiUVLHgjrqnbT8",
       "id": {
         "kind": "youtube#video",
-        "videoId": "a1sCPn3ehlc"
+        "videoId": "63_pV2YAh4Q"
       },
       "snippet": {
-        "publishedAt": "2016-04-28T15:00:04Z",
-        "channelId": "UCSgeMHUYgLDkFkCN-tNlPhA",
-        "title": "데드풀",
-        "description": "정의감 제로, 책임감 제로, 정신은 인터스텔라급 마블 역사상 가장 매력 터지는 히어로 '데드풀'이 온다! 전직 특수부대 출신의 용병 ...",
+        "publishedAt": "2023-11-28T02:29:26Z",
+        "channelId": "UC4P7F8qenDo1O_5NvgBb_cg",
+        "title": "고향을 대표한 홍구유튜브 빌런들의 첫 지역대전!? ... &#39;충청북도 제천짱&#39; vs &#39;전라남도 순천짱&#39;",
+        "description": "스타크래프트 저그 전프로 홍구의 공식 스타채널입니다^^ #홍구 #공방 #참교육 #빌런스타리그 #제천좌 #순천좌 #지역대전 #스타 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/a1sCPn3ehlc/default.jpg",
+            "url": "https://i.ytimg.com/vi/63_pV2YAh4Q/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/a1sCPn3ehlc/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/63_pV2YAh4Q/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/a1sCPn3ehlc/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/63_pV2YAh4Q/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "YouTube Movies",
+        "channelTitle": "발스타홍구",
         "liveBroadcastContent": "none",
-        "publishTime": "2016-04-28T15:00:04Z"
+        "publishTime": "2023-11-28T02:29:26Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "wJX2sPrjxSgTNy8JXYK5Ymn84Do",
+      "etag": "rdm70we8YQyKjepAXxwbjeQgVxM",
       "id": {
         "kind": "youtube#video",
-        "videoId": "UL4TAyQ96Qw"
+        "videoId": "XmBj4xqr3vM"
       },
       "snippet": {
-        "publishedAt": "2012-09-06T13:27:06Z",
-        "channelId": "UCzMB1qFf6VrbvhLj5OZpW-g",
-        "title": "오만과 편견",
-        "description": "세기의 러브 스토리인 \"오만과 편견\"을 스크린에 옮겼다. 키이라 나이틀리 주연에 우아한 각색. 엘리자베스 베넷(키이라 나이틀리)는 잘 ...",
+        "publishedAt": "2023-11-27T03:00:06Z",
+        "channelId": "UC4P7F8qenDo1O_5NvgBb_cg",
+        "title": "충북에서 온 상대에게 연패당한 홍구 ... 자존심 상해서 치킨까지 걸고 붙게되는데? 과연 이들의 최후는?",
+        "description": "스타크래프트 저그 전프로 홍구의 공식 스타채널입니다^^ #홍구 #공방 #참교육 #제천 #스타짱 #제천짱 #문식 #스타 #엽기전략 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/UL4TAyQ96Qw/default.jpg",
+            "url": "https://i.ytimg.com/vi/XmBj4xqr3vM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/UL4TAyQ96Qw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/XmBj4xqr3vM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/UL4TAyQ96Qw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/XmBj4xqr3vM/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "YouTube Movies",
+        "channelTitle": "발스타홍구",
         "liveBroadcastContent": "none",
-        "publishTime": "2012-09-06T13:27:06Z"
+        "publishTime": "2023-11-27T03:00:06Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "dmd7RwZqBgJ0cvg_W7zFzyBXymQ",
+      "etag": "wKbJA01vhxJyt1LRxhjtBIQalgk",
       "id": {
         "kind": "youtube#video",
-        "videoId": "TUKzg1haBWI"
+        "videoId": "PBEBBvfTb1w"
       },
       "snippet": {
-        "publishedAt": "2024-01-17T05:40:38Z",
-        "channelId": "UCWJ2lWNubArHWmf3FIHbfcQ",
-        "title": "Paul George TAKES OVER Down The Stretch! 😤| #Shorts",
-        "description": "",
+        "publishedAt": "2023-12-01T02:30:15Z",
+        "channelId": "UC4P7F8qenDo1O_5NvgBb_cg",
+        "title": "동네에서 스타 2인자라며 거들먹거리는 상대 ... 양학당할 다음 상대로 홍구를 지목하는데...???",
+        "description": "스타크래프트 저그 전프로 홍구의 공식 스타채널입니다^^ #홍구 #공방 #참교육 #양학 #양민학살 #친구 #스타 #엽기전략 ✌구독과 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/TUKzg1haBWI/default.jpg",
+            "url": "https://i.ytimg.com/vi/PBEBBvfTb1w/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/TUKzg1haBWI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/PBEBBvfTb1w/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/TUKzg1haBWI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/PBEBBvfTb1w/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "NBA",
+        "channelTitle": "발스타홍구",
         "liveBroadcastContent": "none",
-        "publishTime": "2024-01-17T05:40:38Z"
+        "publishTime": "2023-12-01T02:30:15Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "9zBdg7G9UshU9Is2qA6HIWFEzxQ",
+      "etag": "kiUGiloSnUx1gp1nXpY7fPO86qw",
       "id": {
         "kind": "youtube#video",
-        "videoId": "TSxH1bywwmM"
+        "videoId": "tT4bur5zfuQ"
       },
       "snippet": {
-        "publishedAt": "2016-09-26T15:00:02Z",
-        "channelId": "UCZgq4Uvns4i-FO5ws-xgEFw",
-        "title": "메카닉: 리크루트",
-        "description": "여자친구가 납치 됐다. 놈들의 협상, 하지만 마음대로 되지 않을 것이다! 과거를 청산하고 평화로운 일상을 보내던 '비숍'(제이슨 스타 ...",
+        "publishedAt": "2023-10-31T02:30:00Z",
+        "channelId": "UC4P7F8qenDo1O_5NvgBb_cg",
+        "title": "시작부터 상대 앞마당멀티를 훔쳐버린 홍구 ... 바로 맵핵으로 의심 당하는데? ㅋㅋㅋㅋㅋ",
+        "description": "스타크래프트 저그 전프로 홍구의 공식 스타채널입니다^^ #홍구 #공방 #참교육 #앞마당 #맵핵 #스타 #엽기전략 ✌구독과 좋아요는 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/TSxH1bywwmM/default.jpg",
+            "url": "https://i.ytimg.com/vi/tT4bur5zfuQ/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/TSxH1bywwmM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/tT4bur5zfuQ/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/TSxH1bywwmM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/tT4bur5zfuQ/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "YouTube Movies",
+        "channelTitle": "발스타홍구",
         "liveBroadcastContent": "none",
-        "publishTime": "2016-09-26T15:00:02Z"
+        "publishTime": "2023-10-31T02:30:00Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "Z17ToXPKjAP164azAi0mOdGsAOA",
+      "etag": "343K2JVWXxsnIwKvAYqgllMtqcs",
       "id": {
         "kind": "youtube#video",
-        "videoId": "skqHOgoGM5o"
+        "videoId": "Dh22rGQb8t4"
       },
       "snippet": {
-        "publishedAt": "2022-05-16T08:40:15Z",
-        "channelId": "UCnXNukjRxXGD8aeZGRV-lYg",
-        "title": "공·수·주 다 되는 김하성, &quot;파워 있는 내야수의 모습입니다&quot; #SPORTSTIME",
-        "description": "김하성 #MLB #현지해설 16일(한국시간) 애틀란타전에서 맹활약을 펼친 김하성! 공격, 수비, 주루에서 탁월한 활약을 펼치며 팀을 승리 ...",
+        "publishedAt": "2023-09-30T02:30:03Z",
+        "channelId": "UC4P7F8qenDo1O_5NvgBb_cg",
+        "title": "악질 처단하는 공방순찰단을 만난 홍구 ... 정의가 항상 이길수없다는걸(?) 보여준다는데? ㅋㅋㅋㅋㅋ",
+        "description": "스타크래프트 저그 전프로 홍구의 공식 스타채널입니다^^ #홍구 #공방순찰단 #공방순찰 #주종 #저그 #스타 #엽기전략 ✌구독과 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/skqHOgoGM5o/default.jpg",
+            "url": "https://i.ytimg.com/vi/Dh22rGQb8t4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/skqHOgoGM5o/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Dh22rGQb8t4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/skqHOgoGM5o/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Dh22rGQb8t4/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "스포타임",
+        "channelTitle": "발스타홍구",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-05-16T08:40:15Z"
+        "publishTime": "2023-09-30T02:30:03Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "2EodwQtAd7S_ZqxIvrXNc_s72Ag",
+      "etag": "x9tThshJm8yorQxKauk4YVd1Arg",
       "id": {
         "kind": "youtube#video",
-        "videoId": "xNOjtfKLAH0"
+        "videoId": "Z-g5f1xcy4Y"
       },
       "snippet": {
-        "publishedAt": "2015-04-15T17:52:01Z",
-        "channelId": "UCeIWpPQgnB5-F97VL0XvMRQ",
-        "title": "아메리칸 스나이퍼",
-        "description": "미국 해군 특수부대 소속의 크리스 카일은 전우들을 보호하라는 오직 한가지 임무를 띄고 이라크로 파병되었습니다. 그는 한 치의 오차 ...",
+        "publishedAt": "2023-09-28T02:30:02Z",
+        "channelId": "UC4P7F8qenDo1O_5NvgBb_cg",
+        "title": "추석특집!! 발스타홍구 선정 ... 올해 가장 추잡한 승부 1위 ㅋㅋㅋㅋㅋ",
+        "description": "스타크래프트 저그 전프로 홍구의 공식 스타채널입니다^^ #홍구 #협상 #패드립 #무승부 #공방 #참교육 #스타 #엽기전략 ✌구독과 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/xNOjtfKLAH0/default.jpg",
+            "url": "https://i.ytimg.com/vi/Z-g5f1xcy4Y/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/xNOjtfKLAH0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Z-g5f1xcy4Y/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/xNOjtfKLAH0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Z-g5f1xcy4Y/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "YouTube Movies",
+        "channelTitle": "발스타홍구",
         "liveBroadcastContent": "none",
-        "publishTime": "2015-04-15T17:52:01Z"
+        "publishTime": "2023-09-28T02:30:02Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "_NPkGWLhkgvKm-yVtdGJCUXfV8w",
+      "etag": "wpUl3cvD3vanadIp1ny3vuz-2X0",
       "id": {
         "kind": "youtube#video",
-        "videoId": "_Pzs6o3wXAU"
+        "videoId": "SQ_bMkcXJ4U"
       },
       "snippet": {
-        "publishedAt": "2013-08-17T08:37:31Z",
-        "channelId": "UCk_Xo9rypmx2JkoFlFnD6PQ",
-        "title": "나의 특별한 사랑이야기",
-        "description": "윌(라이언 레이놀즈)이 자신의 딸(아비게일 브레스린)에게 그녀의 엄마를 어떻게 만나게 됐는지 얘기하면서 과거를 돌아보던 그는 ...",
+        "publishedAt": "2023-10-29T02:30:01Z",
+        "channelId": "UC4P7F8qenDo1O_5NvgBb_cg",
+        "title": "복수에 눈돌아서? 약속잡고 내일 다시 만나자는 상대 ... 과연 홍구와 운영좌의 결말은? ㅋㅋㅋㅋㅋ",
+        "description": "스타크래프트 저그 전프로 홍구의 공식 스타채널입니다^^ #홍구 #공방 #참교육 #운영좌 #약속 #스타 #엽기전략 ✌구독과 좋아요는 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/_Pzs6o3wXAU/default.jpg",
+            "url": "https://i.ytimg.com/vi/SQ_bMkcXJ4U/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/_Pzs6o3wXAU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/SQ_bMkcXJ4U/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/_Pzs6o3wXAU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/SQ_bMkcXJ4U/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "YouTube Movies",
+        "channelTitle": "발스타홍구",
         "liveBroadcastContent": "none",
-        "publishTime": "2013-08-17T08:37:31Z"
+        "publishTime": "2023-10-29T02:30:01Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "u1dYhjEYfK8Kk4UXrQzU8cd2vFs",
+      "etag": "E3Ei2C8njiRjZb4uCD4sMNt9sAU",
       "id": {
         "kind": "youtube#video",
-        "videoId": "uLMtdMSABzw"
+        "videoId": "b8-CHtHgAl4"
       },
       "snippet": {
-        "publishedAt": "2016-09-22T15:00:01Z",
-        "channelId": "UCT0hfQ2KgczVJ7arzjTUSTA",
-        "title": "인디펜던스 데이: 리써전스 (자막판)",
-        "description": "다시, 그들이 온다! 20년 전 최악의 우주 전쟁을 치른 지구. 재건을 위해 힘쓴 전세계는 다시 한번 있을 외계의 침공에 대비한다. 반드시 ...",
+        "publishedAt": "2023-10-28T02:30:01Z",
+        "channelId": "UC4P7F8qenDo1O_5NvgBb_cg",
+        "title": "홍구한테 한달동안 맞다가 또 만난 상대 ... 친구와 약속도 미루고 복수하려 덤비는데? ㅋㅋㅋㅋㅋ",
+        "description": "스타크래프트 저그 전프로 홍구의 공식 스타채널입니다^^ #홍구 #공방 #참교육 #운영좌 #약속 #스타 #엽기전략 ✌구독과 좋아요는 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/uLMtdMSABzw/default.jpg",
+            "url": "https://i.ytimg.com/vi/b8-CHtHgAl4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/uLMtdMSABzw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/b8-CHtHgAl4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/uLMtdMSABzw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/b8-CHtHgAl4/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "YouTube Movies",
+        "channelTitle": "발스타홍구",
         "liveBroadcastContent": "none",
-        "publishTime": "2016-09-22T15:00:01Z"
+        "publishTime": "2023-10-28T02:30:01Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "1auhZGVq-Fo0f01hy6hfINNS7tw",
+      "etag": "idlagJTb55lY2Ih4_n-EYPMDmAI",
       "id": {
         "kind": "youtube#video",
-        "videoId": "ZaNCKJ1L3rA"
+        "videoId": "PFur4HUzno8"
       },
       "snippet": {
-        "publishedAt": "2017-05-17T03:05:34Z",
-        "channelId": "UCeDIHs1U0OTuuGRnidFsglQ",
-        "title": "미녀와 야수 (자막판)",
-        "description": "디즈니 애니메이션 '미녀와 야수'의 실사 버전! 아버지와 단둘이 시골의 작은 마을에서 살아가는 아름다운 '벨'은 행방이 묘연해진 ...",
+        "publishedAt": "2024-01-10T02:30:04Z",
+        "channelId": "UC4P7F8qenDo1O_5NvgBb_cg",
+        "title": "홍구한테 질려서 도망치는 죄수번호좌 ... 몰래 초보+허접인척 하면서 접근하는데? ㅋㅋㅋㅋㅋ 이들의 결말은?",
+        "description": "스타크래프트 저그 전프로 홍구의 공식 스타채널입니다^^ #홍구 #공방 #참교육 #죄수번호좌 #복수전 #죄수번호 #스타 #엽기전략 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/ZaNCKJ1L3rA/default.jpg",
+            "url": "https://i.ytimg.com/vi/PFur4HUzno8/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/ZaNCKJ1L3rA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/PFur4HUzno8/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/ZaNCKJ1L3rA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/PFur4HUzno8/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "YouTube Movies",
+        "channelTitle": "발스타홍구",
         "liveBroadcastContent": "none",
-        "publishTime": "2017-05-17T03:05:34Z"
+        "publishTime": "2024-01-10T02:30:04Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "ziSpZiut2GhwBcHtgrR2EInRYaE",
+      "etag": "SBjRgXodGLZ-kSFAbMCPPU2oblA",
       "id": {
         "kind": "youtube#video",
-        "videoId": "RyWFdyFJo84"
+        "videoId": "a6CSq5nwegg"
       },
       "snippet": {
-        "publishedAt": "2024-01-16T10:30:13Z",
-        "channelId": "UCDhM2k2Cua-JdobAh5moMFg",
-        "title": "#Break_the_Brake 처럼 멈출 생각 따윈 없는 #엑스디너리히어로즈 #오드 님과 #채령 의 #UNTOUCHABLEChallenge 😎 #ITZY_UNTOUCHABLE",
-        "description": "",
+        "publishedAt": "2024-01-09T02:30:07Z",
+        "channelId": "UC4P7F8qenDo1O_5NvgBb_cg",
+        "title": "홍구한테 패드립치고 사라졌었다가... 다시 돌아온 올타임 레전드 빌런 &#39;죄수번호좌&#39; ㅋㅋㅋㅋㅋ",
+        "description": "스타크래프트 저그 전프로 홍구의 공식 스타채널입니다^^ #홍구 #죄수번호좌 #공방 #참교육 #복수전 #죄수번호 #스타 #엽기전략 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/RyWFdyFJo84/default.jpg",
+            "url": "https://i.ytimg.com/vi/a6CSq5nwegg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/RyWFdyFJo84/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/a6CSq5nwegg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/RyWFdyFJo84/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/a6CSq5nwegg/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "ITZY",
+        "channelTitle": "발스타홍구",
         "liveBroadcastContent": "none",
-        "publishTime": "2024-01-16T10:30:13Z"
+        "publishTime": "2024-01-09T02:30:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dRLDiogOkZz2roEcI8zHPd8Xwug",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GRVM3M4kfY0"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-13T02:30:10Z",
+        "channelId": "UC4P7F8qenDo1O_5NvgBb_cg",
+        "title": "199승까지 찍고 200승 제물을 찾던 상대 ... 허접처럼 보인다며 홍구를 고르는데? ㅋㅋㅋㅋㅋ",
+        "description": "스타크래프트 저그 전프로 홍구의 공식 스타채널입니다^^ #홍구 #공방 #참교육 #200승 #제물 #스타 #엽기전략 ✌구독과 좋아요는 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GRVM3M4kfY0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GRVM3M4kfY0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GRVM3M4kfY0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "발스타홍구",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-13T02:30:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JhomvmXepc4oWoFlNuML20HcR9M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-uEtZjkhTJ8"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-17T10:00:49Z",
+        "channelId": "UCaNGiz6D2vHP7XLj9d5691A",
+        "title": "새해 첫 가족끼리 술먹방하다가 하임이가 오열한 이유",
+        "description": "구독과 좋아요는 저희에게 큰 힘이 됩니다! 구독 :: https://bit.ly/2ICyJOt 각종 문의는? dpfgc3@nate.com 아프리카 방송국 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-uEtZjkhTJ8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-uEtZjkhTJ8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-uEtZjkhTJ8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "액션홍구",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-17T10:00:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qXrTRYXFZXktY3d7FEpHAdWsOGQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cXMG0XarF2U"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-31T02:30:04Z",
+        "channelId": "UC4P7F8qenDo1O_5NvgBb_cg",
+        "title": "치열한 승부끝에 3:3까지 향한 양선수 ... 올해 홍구 유튜브 최악빌런의 주인공은 과연!?",
+        "description": "스타크래프트 저그 전프로 홍구의 공식 스타채널입니다^^ #홍구 #공방 #참교육 #빌런스타리그 #타골좌 #팝콘좌 #타임이즈골드 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cXMG0XarF2U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cXMG0XarF2U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cXMG0XarF2U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "발스타홍구",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-31T02:30:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nY22zpbVRwTY7YaO63Jg4MzJnns",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eD3doptxH9g"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-25T02:30:08Z",
+        "channelId": "UC4P7F8qenDo1O_5NvgBb_cg",
+        "title": "승률 94% 찍고 초고수인양 도발하는 상대 ... 홍구는 저 승률부터 떡락시키려 하는데? ㅋㅋㅋㅋㅋ",
+        "description": "스타크래프트 저그 전프로 홍구의 공식 스타채널입니다^^ #홍구 #공방 #참교육 #승률 #떡락 #죄수번호 #스타 #엽기전략 ✌구독과 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eD3doptxH9g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eD3doptxH9g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eD3doptxH9g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "발스타홍구",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-25T02:30:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HtAz8wx24xGy8unV3Bofw4pycBU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uSCQxYSKy1A"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-07T02:30:13Z",
+        "channelId": "UC4P7F8qenDo1O_5NvgBb_cg",
+        "title": "홍구 편집자도 편집하다 현웃터짐 ㅋㅋㅋㅋㅋ 무려 3일간 이어진 이 노인성 빌런과 악연 최후는?",
+        "description": "스타크래프트 저그 전프로 홍구의 공식 스타채널입니다^^ #홍구 #공방 #참교육 #벤젠좌 #복수 #캐논러시 #스타 #엽기전략 ✌구독과 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uSCQxYSKy1A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uSCQxYSKy1A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uSCQxYSKy1A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "발스타홍구",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-07T02:30:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BUBAGSEjuKjMObhFTJeqLc_3yZM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FQ6uD_9uqHg"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-26T02:29:58Z",
+        "channelId": "UC4P7F8qenDo1O_5NvgBb_cg",
+        "title": "홍구때문에 94%에서 69%까지 승률 떡락한 상대 ... 인성폭발해서 날뛰기 시작하는데?? ㅋㅋㅋㅋㅋ",
+        "description": "스타크래프트 저그 전프로 홍구의 공식 스타채널입니다^^ #홍구 #공방 #참교육 #승률 #떡락 #죄수번호 #스타 #엽기전략 ✌구독과 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FQ6uD_9uqHg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FQ6uD_9uqHg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FQ6uD_9uqHg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "발스타홍구",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-26T02:29:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "st9-iYSyXgzxfDepTOKEZeA4hhg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VFWIBNm9l9I"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-27T02:32:34Z",
+        "channelId": "UC4P7F8qenDo1O_5NvgBb_cg",
+        "title": "올타임 레전드!? 홍구를 피해 도망쳤던 상대 ... 그러나 결국 홍구가 만든 방에 들어오게 됐는데 ㅋㅋㅋㅋㅋ",
+        "description": "스타크래프트 저그 전프로 홍구의 공식 스타채널입니다^^ #홍구 #공방 #참교육 #승률 #떡락 #죄수번호 #스타 #엽기전략 ✌구독과 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VFWIBNm9l9I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VFWIBNm9l9I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VFWIBNm9l9I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "발스타홍구",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-27T02:32:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qmrhoeb3HtF7XNFDiLE0oAUCncI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lpO8jtVXnrU"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-24T02:30:08Z",
+        "channelId": "UC4P7F8qenDo1O_5NvgBb_cg",
+        "title": "시리즈 내내 털리던 홍구, 마지막 기회를 잡는데? ... 역대급 천적 스파게티좌와의 결말은!?",
+        "description": "스타크래프트 저그 전프로 홍구의 공식 스타채널입니다^^ #홍구 #공방 #참교육 #스파게티좌 #천적 #역대급 #스타 #엽기전략 ✌구독 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lpO8jtVXnrU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lpO8jtVXnrU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lpO8jtVXnrU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "발스타홍구",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-24T02:30:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DwHhgNUcJ7ZilPfDhwUBMgznheg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9YOKY4jwauE"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-01T02:29:54Z",
+        "channelId": "UC4P7F8qenDo1O_5NvgBb_cg",
+        "title": "2024년에도 우쭐거리던 공방의 제왕 홍구 ... 과연 올해는 어떤 상대들을 만나게 될까? ㅋㅋㅋㅋㅋ",
+        "description": "스타크래프트 저그 전프로 홍구의 공식 스타채널입니다^^ #홍구 #공방 #참교육 #우쭐좌 #스타 #엽기전략 ✌구독과 좋아요는 저희 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9YOKY4jwauE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9YOKY4jwauE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9YOKY4jwauE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "발스타홍구",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-01T02:29:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "okm3rZGWwvmN3QGyxZSKTgiZkfg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "l5tb0Qyzy3Q"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-24T02:32:00Z",
+        "channelId": "UC4P7F8qenDo1O_5NvgBb_cg",
+        "title": "경찰공무원이 목표라는 홍구의 상대 ... 하지만 공부를 배제하고 하루종일 게임만 하고있는데?;;;",
+        "description": "스타크래프트 저그 전프로 홍구의 공식 스타채널입니다^^ #홍구 #공방 #참교육 #공시생 #공시생좌 #공무원 #스타 #엽기전략 ✌구독 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l5tb0Qyzy3Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l5tb0Qyzy3Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l5tb0Qyzy3Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "발스타홍구",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-24T02:32:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gM5Zw3GgYu-9ijJnRQ2fuYiPT-w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "38F4LEkFc3U"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-08T02:30:16Z",
+        "channelId": "UC4P7F8qenDo1O_5NvgBb_cg",
+        "title": "30만명의 시청자들과 편집자를 모두 경악시켰던 상대 ... 또 나타나서 홍구를 &#39;엽기전략&#39;으로 끝장내려는데?;;;",
+        "description": "스타크래프트 저그 전프로 홍구의 공식 스타채널입니다^^ #홍구 #공방 #참교육 #스파게티좌 #천적 #역대급 #스타 #엽기전략 ✌구독 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/38F4LEkFc3U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/38F4LEkFc3U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/38F4LEkFc3U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "발스타홍구",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-08T02:30:16Z"
       }
     }
   ]

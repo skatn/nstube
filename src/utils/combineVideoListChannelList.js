@@ -1,4 +1,4 @@
-export function combineVideoListChannelList(videoList, channelList) {
+export default function combineVideoListChannelList(videoList, channelList) {
   videoList.items = videoList.items.map((video) => ({
     ...video,
     channel: channelList.items.find(

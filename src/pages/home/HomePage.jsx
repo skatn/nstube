@@ -3,7 +3,7 @@ import Video from '../../components/video/Video';
 import styles from './HomePage.module.css';
 import getVideoList from '../../services/video/getVideoList';
 import getChannelList from '../../services/channel/getChannelList';
-import { combineVideoListChannelList } from '../../utils/combineVideoListChannelList';
+import combineVideoListChannelList from '../../utils/combineVideoListChannelList';
 import Loading from '../../components/loading/Loading';
 
 export default function VideoListPage() {
