@@ -15,9 +15,9 @@ export default function WatchPage() {
   const [video, setVideo] = useState();
   const [channel, setChannel] = useState();
 
-  const [isSplit, setSplit] = useState(window.innerWidth >= 768);
+  const [isMobile, setIsMobile] = useState(window.innerWidth < 768);
   const handleMQuery = (e) => {
-    setSplit(e.matches);
+    setIsMobile(e.matches);
   };
 
   useEffect(() => {
@@ -41,7 +41,7 @@ export default function WatchPage() {
 
   return (
     <div className={styles.container}>
-      {isSplit && (
+      {!isMobile && (
         <>
           <div className={styles.left}>
             <VideoPlayer video={video} channel={channel} />
@@ -56,10 +56,10 @@ export default function WatchPage() {
         </>
       )}
 
-      {!isSplit && (
+      {isMobile && (
         <>
           <VideoPlayer video={video} channel={channel} />
-          <RecommandList videoId={videoId} />
+          <RecommandList videoId={videoId} isMobile={isMobile} />
           <CommentList
             videoId={videoId}
             totalCount={Number(video.statistics.commentCount)}

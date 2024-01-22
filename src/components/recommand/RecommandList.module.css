@@ -4,3 +4,15 @@
   max-width: 500px;
   gap: 1rem;
 }
+
+.more {
+  padding: 0.4rem;
+  background: transparent;
+  border-radius: 2rem;
+  border: 1px solid var(--color-grey-light);
+  color: var(--color-text-blue);
+}
+
+.more:hover {
+  background: var(--color-sky);
+}

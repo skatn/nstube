@@ -4,9 +4,11 @@
   --color-grey-dark: #838383;
   --color-blue: #001283;
   --color-white: white;
+  --color-sky: #d7ddff;
 
   --color-text: #0f0f0f;
   --color-text-light: #606060;
+  --color-text-blue: #065fd4;
 }
 
 body {

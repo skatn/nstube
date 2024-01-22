@@ -1,16 +1,16 @@
-import React from 'react';
+import React, { forwardRef } from 'react';
 import styles from './RecommandVideo.module.css';
 import { Link } from 'react-router-dom';
 import numberToKorean from '../../utils/numberToKorean';
 import timeForToday from '../../utils/timeForToday';
 import getThumbnail from '../../utils/getThumbnail';
 
-export default function RecommandVideo({ video }) {
+const RecommandVideo = forwardRef(({ video }, ref) => {
   const { thumbnails, title, publishedAt, channelTitle } = video.snippet;
   const { viewCount } = video.statistics;
 
   return (
-    <li>
+    <li ref={ref}>
       <Link to={`/watch?v=${video.id}`}>
         <div className={styles.container}>
           <img
@@ -31,4 +31,6 @@ export default function RecommandVideo({ video }) {
       </Link>
     </li>
   );
-}
+});
+
+export default RecommandVideo;
