@@ -1,7 +1,7 @@
 .container {
   display: flex;
   flex-direction: column;
-  max-width: 500px;
+  max-width: 100%;
   gap: 1rem;
 }
 
@@ -15,4 +15,10 @@
 
 .more:hover {
   background: var(--color-sky);
+}
+
+@media (min-width: 768px) {
+  .container {
+    max-width: 500px;
+  }
 }
