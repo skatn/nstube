@@ -18,7 +18,7 @@ export default function RecommandList({ videoId, isMobile }) {
   });
 
   const handleClick = () => {
-    getVideoList(videoList.pageInfo.nextPageToken).then((videoList) =>
+    getVideoList(videoList.nextPageToken).then((videoList) =>
       setVideoList((prev) => ({
         ...videoList,
         items: [...prev.items, ...videoList.items],
