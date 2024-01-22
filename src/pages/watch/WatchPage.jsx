@@ -5,7 +5,7 @@ import styles from './WatchPage.module.css';
 import Loading from '../../components/loading/Loading';
 import getVideoDetails from '../../services/video/getVideoDetails';
 import getChannelList from '../../services/channel/getChannelList';
-import CommentBox from '../../components/comment/CommentList';
+import CommentList from '../../components/comment/CommentList';
 import RecommandList from '../../components/recommand/RecommandList';
 
 export default function WatchPage() {
@@ -45,7 +45,7 @@ export default function WatchPage() {
         <>
           <div className={styles.left}>
             <VideoPlayer video={video} channel={channel} />
-            <CommentBox
+            <CommentList
               videoId={videoId}
               totalCount={Number(video.statistics.commentCount)}
             />
@@ -60,7 +60,7 @@ export default function WatchPage() {
         <>
           <VideoPlayer video={video} channel={channel} />
           <RecommandList videoId={videoId} />
-          <CommentBox
+          <CommentList
             videoId={videoId}
             totalCount={Number(video.statistics.commentCount)}
           />

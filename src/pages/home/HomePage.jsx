@@ -14,7 +14,7 @@ export default function VideoListPage() {
     observer.unobserve(entry.target);
     getVideos(videoList.pageInfo.pageToken).then((videoList) => {
       setVideoList((prev) => ({
-        ...prev,
+        ...videoList,
         items: [...prev.items, ...videoList.items],
       }));
     });
@@ -23,7 +23,6 @@ export default function VideoListPage() {
   useEffect(() => {
     getVideos().then((videoList) => {
       setVideoList(videoList);
-      console.log(videoList.items[0]);
     });
   }, []);
 

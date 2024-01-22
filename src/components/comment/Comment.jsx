@@ -1,10 +1,10 @@
-import React from 'react';
+import React, { forwardRef } from 'react';
 import styles from './Comment.module.css';
 import timeForToday from '../../utils/timeForToday';
 import { PiThumbsUpLight } from 'react-icons/pi';
 import { PiThumbsDownLight } from 'react-icons/pi';
 
-export default function Comment({ comment }) {
+const Comment = forwardRef(({ comment }, ref) => {
   const {
     authorProfileImageUrl,
     authorDisplayName,
@@ -14,7 +14,7 @@ export default function Comment({ comment }) {
   } = comment.snippet.topLevelComment.snippet;
 
   return (
-    <li className={styles.container}>
+    <li className={styles.container} ref={ref}>
       <img
         className={styles.profile}
         src={authorProfileImageUrl}
@@ -38,4 +38,6 @@ export default function Comment({ comment }) {
       </div>
     </li>
   );
-}
+});
+
+export default Comment;
