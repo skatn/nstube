@@ -1307,6 +1307,97 @@
         "hiddenSubscriberCount": false,
         "videoCount": "7200"
       }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "mKG5t3IYu9LDu8dg99JE5SyrPqU",
+      "id": "UC4P7F8qenDo1O_5NvgBb_cg",
+      "snippet": {
+        "title": "발스타홍구",
+        "description": "안녕하세요, 여러분!\n홍구의 공식 유튜브 게임채널입니다\n\n스타 명경기, 엽기 전략 그리고 다양한 종합 게임으로 여러분을 찾아뵙겠습니다\n구독과 많은 사랑 부탁드립니다!! :D\n\n각종 문의는? dpfgc3@nate.com",
+        "customUrl": "@footstarhong9",
+        "publishedAt": "2020-04-04T08:23:12.214305Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/iNvxzqS-mVq7m8-pq14TGYtpXO-ROO7JWnsp76LWqrgWwYLnh7hrGhstxBcXsVeYX2Gnf0pJ=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/iNvxzqS-mVq7m8-pq14TGYtpXO-ROO7JWnsp76LWqrgWwYLnh7hrGhstxBcXsVeYX2Gnf0pJ=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/iNvxzqS-mVq7m8-pq14TGYtpXO-ROO7JWnsp76LWqrgWwYLnh7hrGhstxBcXsVeYX2Gnf0pJ=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "발스타홍구",
+          "description": "안녕하세요, 여러분!\n홍구의 공식 유튜브 게임채널입니다\n\n스타 명경기, 엽기 전략 그리고 다양한 종합 게임으로 여러분을 찾아뵙겠습니다\n구독과 많은 사랑 부탁드립니다!! :D\n\n각종 문의는? dpfgc3@nate.com"
+        },
+        "country": "KR"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU4P7F8qenDo1O_5NvgBb_cg"
+        }
+      },
+      "statistics": {
+        "viewCount": "353291990",
+        "subscriberCount": "393000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "1033"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "Pdnz1j094J28Q0dMzVW2dOjjvLA",
+      "id": "UCaNGiz6D2vHP7XLj9d5691A",
+      "snippet": {
+        "title": "액션홍구",
+        "description": "안녕하세요, 여러분!\n홍구의 공식 유튜브 채널입니다.\n\n꾸밈없는 모습으로 여러분을 찾아뵐테니\n구독과 많은 사랑 부탁드립니다!! :D\n\n각종 문의는? dpfgc3@nate.com",
+        "customUrl": "@hong_9",
+        "publishedAt": "2014-05-04T23:32:22Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/QTgCzPy-H7Oso_G7IuYIuGutidx6TjhgbrKfNohCxa9gBAJsvVG49FlO31lF7OdEWpUx26kAOg=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/QTgCzPy-H7Oso_G7IuYIuGutidx6TjhgbrKfNohCxa9gBAJsvVG49FlO31lF7OdEWpUx26kAOg=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/QTgCzPy-H7Oso_G7IuYIuGutidx6TjhgbrKfNohCxa9gBAJsvVG49FlO31lF7OdEWpUx26kAOg=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "액션홍구",
+          "description": "안녕하세요, 여러분!\n홍구의 공식 유튜브 채널입니다.\n\n꾸밈없는 모습으로 여러분을 찾아뵐테니\n구독과 많은 사랑 부탁드립니다!! :D\n\n각종 문의는? dpfgc3@nate.com"
+        },
+        "country": "KR"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUaNGiz6D2vHP7XLj9d5691A"
+        }
+      },
+      "statistics": {
+        "viewCount": "715339893",
+        "subscriberCount": "933000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "3543"
+      }
     }
   ]
 }
