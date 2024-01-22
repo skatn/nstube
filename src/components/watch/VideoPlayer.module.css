@@ -53,3 +53,9 @@
 .description > div {
   color: var(--color-text-light);
 }
+
+.description > div:nth-child(2) {
+  overflow: hidden;
+  text-overflow: clip;
+  width: 100%;
+}
