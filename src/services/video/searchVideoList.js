@@ -4,7 +4,7 @@ const host = process.env.REACT_APP_HOST;
 const key = process.env.REACT_APP_USER_KEY;
 const useMock = process.env.REACT_APP_USE_MOCK === '1';
 
-export default async function searchVideoList(searchQuery, nextPageToken) {
+export default async function searchVideoList(searchQuery, pageToken) {
   if (useMock) {
     return await (await fetch('/data/video-list-search.json')).json();
   }
@@ -17,7 +17,7 @@ export default async function searchVideoList(searchQuery, nextPageToken) {
         type: 'video',
         maxResults: 30,
         q: searchQuery,
-        nextPageToken: nextPageToken,
+        pageToken,
         key,
       },
     })

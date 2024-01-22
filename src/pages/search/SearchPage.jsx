@@ -8,6 +8,7 @@ import SearchVideo from '../../components/search/SearchVideo';
 import styles from './SearchPage.module.css';
 import combineVideoListVideoDetails from '../../utils/combineVideoListVideoDetails';
 import getVideoDetails from '../../services/video/getVideoDetails';
+import useIntersect from '../../hooks/useIntersect';
 
 export default function SearchPage() {
   const params = new URLSearchParams(useLocation().search);
@@ -15,10 +16,19 @@ export default function SearchPage() {
 
   const [videoList, setVideoList] = useState();
 
+  const ref = useIntersect((entry, observer) => {
+    observer.unobserve(entry.target);
+    searchVideos(searchQuery, videoList.nextPageToken).then((videoList) => {
+      setVideoList((prev) => ({
+        ...videoList,
+        items: [...prev.items, ...videoList.items],
+      }));
+    });
+  });
+
   useEffect(() => {
     searchVideos(searchQuery).then((videoList) => {
       setVideoList(videoList);
-      console.log(videoList);
     });
   }, [searchQuery]);
 
@@ -26,15 +36,19 @@ export default function SearchPage() {
 
   return (
     <ul className={styles.container}>
-      {videoList.items.map((video) => (
-        <SearchVideo key={video.id} video={video} />
-      ))}
+      {videoList.items.map((video, idx) =>
+        idx + 1 === videoList.items.length ? (
+          <SearchVideo key={video.id} video={video} ref={ref} />
+        ) : (
+          <SearchVideo key={video.id} video={video} />
+        )
+      )}
     </ul>
   );
 }
 
-async function searchVideos(searchQuery, nextPageToken) {
-  let videoList = await searchVideoList(searchQuery, nextPageToken);
+async function searchVideos(searchQuery, pageToken) {
+  let videoList = await searchVideoList(searchQuery, pageToken);
   const videoDetails = await getVideoDetails(
     videoList.items.map((v) => v.id.videoId)
   );

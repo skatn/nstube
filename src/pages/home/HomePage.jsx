@@ -12,7 +12,8 @@ export default function VideoListPage() {
 
   const ref = useIntersect((entry, observer) => {
     observer.unobserve(entry.target);
-    getVideos(videoList.pageInfo.pageToken).then((videoList) => {
+    console.log(videoList);
+    getVideos(videoList.nextPageToken).then((videoList) => {
       setVideoList((prev) => ({
         ...videoList,
         items: [...prev.items, ...videoList.items],

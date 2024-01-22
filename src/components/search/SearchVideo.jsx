@@ -1,18 +1,18 @@
-import React from 'react';
+import React, { forwardRef } from 'react';
 import { Link } from 'react-router-dom';
 import styles from './SearchVideo.module.css';
 import numberToKorean from '../../utils/numberToKorean';
 import timeForToday from '../../utils/timeForToday';
 import getThumbnail from '../../utils/getThumbnail';
 
-export default function SearchVideo({ video }) {
+const SearchVideo = forwardRef(({ video }, ref) => {
   const { thumbnails, title, publishedAt, channelTitle, description } =
     video.snippet;
   const { viewCount } = video.statistics;
   const { thumbnails: channelThumbnails } = video.channel.snippet;
 
   return (
-    <li>
+    <li ref={ref}>
       <Link to={`/watch?v=${video.id}`}>
         <div className={styles.container}>
           <img
@@ -38,4 +38,6 @@ export default function SearchVideo({ video }) {
       </Link>
     </li>
   );
-}
+});
+
+export default SearchVideo;

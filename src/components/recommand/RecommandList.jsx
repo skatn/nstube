@@ -9,7 +9,7 @@ export default function RecommandList({ videoId, isMobile }) {
   const [videoList, setVideoList] = useState();
   const ref = useIntersect((entry, observer) => {
     observer.unobserve(entry.target);
-    getVideoList(videoList.pageInfo.nextPageToken).then((videoList) =>
+    getVideoList(videoList.nextPageToken).then((videoList) =>
       setVideoList((prev) => ({
         ...videoList,
         items: [...prev.items, ...videoList.items],
