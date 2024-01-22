@@ -1,17 +1,17 @@
-import React from 'react';
+import React, { forwardRef } from 'react';
 import styles from './Video.module.css';
 import numberToKorean from '../../utils/numberToKorean';
 import timeForToday from '../../utils/timeForToday';
 import { Link } from 'react-router-dom';
 import getThumbnail from '../../utils/getThumbnail';
 
-export default function Video({ video }) {
+const Video = forwardRef(({ video }, ref) => {
   const { thumbnails, title, publishedAt } = video.snippet;
   const { viewCount } = video.statistics;
   const { channel } = video;
 
   return (
-    <li>
+    <li ref={ref}>
       <Link to={`/watch?v=${video.id}`}>
         <img
           className={styles.thumbnail}
@@ -26,7 +26,7 @@ export default function Video({ video }) {
           />
           <div className={styles.text}>
             <span className={styles.title}>{title}</span>
-            <span className={styles.channelTitle}>{channel.title}</span>
+            <span className={styles.channelTitle}>{channel.snippet.title}</span>
             <div className={styles.meta}>
               <span>조회수 {numberToKorean(viewCount)}회</span>
               <span>•</span>
@@ -37,4 +37,6 @@ export default function Video({ video }) {
       </Link>
     </li>
   );
-}
+});
+
+export default Video;
