@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import styles from './SearchVideo.module.css';
 import numberToKorean from '../../utils/numberToKorean';
 import timeForToday from '../../utils/timeForToday';
+import getThumbnail from '../../utils/getThumbnail';
 
 export default function SearchVideo({ video }) {
   const { thumbnails, title, publishedAt, channelTitle, description } =
@@ -16,7 +17,7 @@ export default function SearchVideo({ video }) {
         <div className={styles.container}>
           <img
             className={styles.thumbnail}
-            src={thumbnails.standard.url}
+            src={getThumbnail(thumbnails).url}
             alt='thumbnails'
           />
           <div className={styles.text}>

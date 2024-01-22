@@ -3,6 +3,7 @@ import styles from './RecommandVideo.module.css';
 import { Link } from 'react-router-dom';
 import numberToKorean from '../../utils/numberToKorean';
 import timeForToday from '../../utils/timeForToday';
+import getThumbnail from '../../utils/getThumbnail';
 
 export default function RecommandVideo({ video }) {
   const { thumbnails, title, publishedAt, channelTitle } = video.snippet;
@@ -14,7 +15,7 @@ export default function RecommandVideo({ video }) {
         <div className={styles.container}>
           <img
             className={styles.thumbnail}
-            src={thumbnails.standard.url}
+            src={getThumbnail(thumbnails).url}
             alt='thumbnails'
           />
           <div className={styles.text}>

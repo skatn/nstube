@@ -18,6 +18,7 @@ export default function SearchPage() {
   useEffect(() => {
     searchVideos(searchQuery).then((videoList) => {
       setVideoList(videoList);
+      console.log(videoList);
     });
   }, [searchQuery]);
 

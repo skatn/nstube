@@ -3,6 +3,7 @@ import styles from './Video.module.css';
 import numberToKorean from '../../utils/numberToKorean';
 import timeForToday from '../../utils/timeForToday';
 import { Link } from 'react-router-dom';
+import getThumbnail from '../../utils/getThumbnail';
 
 export default function Video({ video }) {
   const { thumbnails, title, publishedAt } = video.snippet;
@@ -14,7 +15,7 @@ export default function Video({ video }) {
       <Link to={`/watch?v=${video.id}`}>
         <img
           className={styles.thumbnail}
-          src={thumbnails.standard.url}
+          src={getThumbnail(thumbnails).url}
           alt='thumbnails'
         />
         <div className={styles.description}>
