@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React from 'react';
 import Video from '../../components/video/Video';
 import styles from './HomePage.module.css';
 import getVideoList from '../../services/video/getVideoList';
@@ -6,36 +6,36 @@ import getChannelList from '../../services/channel/getChannelList';
 import combineVideoListChannelList from '../../utils/combineVideoListChannelList';
 import Loading from '../../components/loading/Loading';
 import useIntersect from '../../hooks/useIntersect';
+import { useInfiniteQuery } from '@tanstack/react-query';
 
 export default function VideoListPage() {
-  const [videoList, setVideoList] = useState();
+  const {
+    data: videoList,
+    isLoading,
+    fetchNextPage,
+  } = useInfiniteQuery({
+    queryKey: ['projects'],
+    queryFn: getVideos,
+    getNextPageParam: (lastPage, pages) => lastPage.nextPageToken,
+  });
 
   const ref = useIntersect((entry, observer) => {
     observer.unobserve(entry.target);
     console.log(videoList);
-    getVideos(videoList.nextPageToken).then((videoList) => {
-      setVideoList((prev) => ({
-        ...videoList,
-        items: [...prev.items, ...videoList.items],
-      }));
-    });
+    fetchNextPage();
   });
 
-  useEffect(() => {
-    getVideos().then((videoList) => {
-      setVideoList(videoList);
-    });
-  }, []);
-
-  if (!videoList) return <Loading />;
+  if (isLoading) return <Loading />;
 
   return (
     <ul className={styles.container}>
-      {videoList.items.map((video, idx) =>
-        idx + 1 === videoList.items.length ? (
-          <Video key={video.id} video={video} ref={ref} />
-        ) : (
-          <Video key={video.id} video={video} />
+      {videoList.pages.map((page, i) =>
+        page.items.map((video, idx) =>
+          idx + 1 === videoList.pages[0].items.length ? (
+            <Video key={video.id} video={video} ref={ref} />
+          ) : (
+            <Video key={video.id} video={video} />
+          )
         )
       )}
     </ul>
