@@ -15,7 +15,7 @@ export default function VideoListPage() {
     fetchNextPage,
   } = useInfiniteQuery({
     queryKey: ['projects'],
-    queryFn: getVideos,
+    queryFn: (pageParam) => getVideos(pageParam),
     getNextPageParam: (lastPage, pages) => lastPage.nextPageToken,
   });
 
@@ -41,8 +41,8 @@ export default function VideoListPage() {
   );
 }
 
-async function getVideos({ pageParam }) {
-  const videoList = await getVideoList(pageParam);
+async function getVideos(pageToken) {
+  const videoList = await getVideoList(pageToken);
   const channeIds = videoList.items.map((video) => video.snippet.channelId);
   const channelList = await getChannelList(channeIds);
 

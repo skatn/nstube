@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import React from 'react';
 import styles from './CommentList.module.css';
 import getCommentThread from '../../services/comment/getCommentThread';
 import Loading from '../loading/Loading';
