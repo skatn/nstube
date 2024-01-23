@@ -21,7 +21,6 @@ export default function VideoListPage() {
 
   const ref = useIntersect((entry, observer) => {
     observer.unobserve(entry.target);
-    console.log(videoList);
     fetchNextPage();
   });
 
@@ -31,7 +30,7 @@ export default function VideoListPage() {
     <ul className={styles.container}>
       {videoList.pages.map((page, i) =>
         page.items.map((video, idx) =>
-          idx + 1 === videoList.pages[0].items.length ? (
+          i + 1 === videoList.pages.length && idx + 1 === page.items.length ? (
             <Video key={video.id} video={video} ref={ref} />
           ) : (
             <Video key={video.id} video={video} />
@@ -42,8 +41,8 @@ export default function VideoListPage() {
   );
 }
 
-async function getVideos(pageToken) {
-  const videoList = await getVideoList(pageToken);
+async function getVideos({ pageParam }) {
+  const videoList = await getVideoList(pageParam);
   const channeIds = videoList.items.map((video) => video.snippet.channelId);
   const channelList = await getChannelList(channeIds);
 
