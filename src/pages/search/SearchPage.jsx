@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React from 'react';
 import { useLocation } from 'react-router-dom';
 import getChannelList from '../../services/channel/getChannelList';
 import combineVideoListChannelList from '../../utils/combineVideoListChannelList';
@@ -9,38 +9,39 @@ import styles from './SearchPage.module.css';
 import combineVideoListVideoDetails from '../../utils/combineVideoListVideoDetails';
 import getVideoDetails from '../../services/video/getVideoDetails';
 import useIntersect from '../../hooks/useIntersect';
+import { useInfiniteQuery } from '@tanstack/react-query';
 
 export default function SearchPage() {
   const params = new URLSearchParams(useLocation().search);
   const searchQuery = params.get('search_query');
 
-  const [videoList, setVideoList] = useState();
+  const {
+    data: videoList,
+    fetchNextPage,
+    isLoading,
+  } = useInfiniteQuery({
+    queryKey: ['searchList', searchQuery],
+    queryFn: (pageParam) => searchVideos(searchQuery, pageParam),
+    getNextPageParam: (lastPage, pages) => lastPage.nextPageToken,
+  });
 
   const ref = useIntersect((entry, observer) => {
     observer.unobserve(entry.target);
-    searchVideos(searchQuery, videoList.nextPageToken).then((videoList) => {
-      setVideoList((prev) => ({
-        ...videoList,
-        items: [...prev.items, ...videoList.items],
-      }));
-    });
+    fetchNextPage();
   });
 
-  useEffect(() => {
-    searchVideos(searchQuery).then((videoList) => {
-      setVideoList(videoList);
-    });
-  }, [searchQuery]);
-
-  if (!videoList) return <Loading />;
+  if (isLoading) return <Loading />;
 
   return (
     <ul className={styles.container}>
-      {videoList.items.map((video, idx) =>
-        idx + 1 === videoList.items.length ? (
-          <SearchVideo key={video.id} video={video} ref={ref} />
-        ) : (
-          <SearchVideo key={video.id} video={video} />
+      {videoList.pages.map((page, pageIndex) =>
+        page.items.map((video, videoIndex) =>
+          pageIndex + 1 === videoList.pages.length &&
+          videoIndex + 1 === page.items.length ? (
+            <SearchVideo key={video.id} video={video} ref={ref} />
+          ) : (
+            <SearchVideo key={video.id} video={video} />
+          )
         )
       )}
     </ul>
